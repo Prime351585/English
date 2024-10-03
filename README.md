@@ -3,7 +3,7 @@ A simple App built using React native, to improve English for government exam pr
 
 the app covers all the previous 20 years repeated synonym and antonym words which are oftenly asked.
 
-to get the apk simply download .abb file and convert it to .apk file
+to get the apk simply download base.apk file and install it.
 
 ## Learn more
 
