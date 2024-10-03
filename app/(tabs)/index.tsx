@@ -1,70 +1,174 @@
-import { Image, StyleSheet, Platform } from 'react-native';
+import React, { useState, useEffect } from 'react';
+import { Text, View, SafeAreaView, TouchableOpacity, StyleSheet } from 'react-native';
+import quizData from '../../assets/quiz/data.json';
 
-import { HelloWave } from '@/components/HelloWave';
-import ParallaxScrollView from '@/components/ParallaxScrollView';
-import { ThemedText } from '@/components/ThemedText';
-import { ThemedView } from '@/components/ThemedView';
+const shuffleArray = (array) => {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+};
 
-export default function HomeScreen() {
+const QuizComponent = ({colorScheme}) => {
+  const [questions, setQuestions] = useState([]);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [selectedAnswer, setSelectedAnswer] = useState(null);
+  const [showExplanation, setShowExplanation] = useState(false);
+
+  useEffect(() => {
+    // Load all questions when the component mounts
+    const shuffledQuestions = quizData.questions.map((question) => ({
+      ...question,
+      options: shuffleArray([...question.options]),
+    }));
+    setQuestions(shuffledQuestions);
+  }, []);
+
+  const currentQuestion = questions[currentQuestionIndex];
+
+  const handleAnswer = (selected) => {
+    setSelectedAnswer(selected);
+    setShowExplanation(true);
+  };
+  const previousQuestion = () => {
+    setCurrentQuestionIndex((prevIndex) => 
+      prevIndex > 0 ? prevIndex - 1 : questions.length - 1
+    );
+    setSelectedAnswer(null);
+    setShowExplanation(false);
+  };
+
+  const nextQuestion = () => {
+    setCurrentQuestionIndex((prevIndex) => 
+      prevIndex < questions.length - 1 ? prevIndex + 1 : 0
+    );
+    setSelectedAnswer(null);
+    setShowExplanation(false);
+  };
+
+  if (!currentQuestion) {
+    return <Text>Loading...</Text>;
+  }
   return (
-    <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
-      headerImage={
-        <Image
-          source={require('@/assets/images/partial-react-logo.png')}
-          style={styles.reactLogo}
-        />
-      }>
-      <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome!</ThemedText>
-        <HelloWave />
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press{' '}
-          <ThemedText type="defaultSemiBold">
-            {Platform.select({ ios: 'cmd + d', android: 'cmd + m' })}
-          </ThemedText>{' '}
-          to open developer tools.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-        <ThemedText>
-          Tap the Explore tab to learn more about what's included in this starter app.
-        </ThemedText>
-      </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
-        <ThemedText>
-          When you're ready, run{' '}
-          <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
-          <ThemedText type="defaultSemiBold">app-example</ThemedText>.
-        </ThemedText>
-      </ThemedView>
-    </ParallaxScrollView>
-  );
-}
+    <SafeAreaView style={[styles.container]}>
+      <Text style={[styles.questionText,{color: (colorScheme ?? "light") === "light" ? "black" : "white"}]}>
+      Question {currentQuestionIndex + 1} of {questions.length}
+      </Text>
+      <Text style={[styles.questionText,{color: (colorScheme ?? "light") === "light" ? "black" : "white"}]}>
+        {currentQuestion.type === 'synonyms' ? 'Synonym' : 'Antonym'} of {currentQuestion.word}:
+      </Text>
+      {currentQuestion.options.map((option, index) => (
+        <TouchableOpacity
+          key={index}
+          style={[
+            styles.optionButton,
+            selectedAnswer && {
+              backgroundColor: 
+                option === currentQuestion.correct_answer
+                  ? '#90EE90'  // Light green for correct answer
+                  : option === selectedAnswer
+                    ? '#FFA07A'  // Light salmon for incorrect selected answer
+                    : '#e0e0e0'  // Default color
+            }
+          ]}
+          onPress={() => handleAnswer(option)}
+          disabled={selectedAnswer !== null}
+        >
+          <Text style={styles.optionText}>{option}</Text>
+        </TouchableOpacity>
+      ))}
+  {showExplanation && (
+  <View style={styles.explanationContainer}>
+    <Text style={styles.explanationText}>
+      <Text style={styles.explanationLabel}>Explanation</Text>
+      {"\n"}
+      <Text style={{color: '#000000'}}>
+        <Text style={{fontWeight: 'bold'}}>Synonyms:</Text> {currentQuestion.synonyms}
+      </Text>
+      {"\n"}
+      <Text style={{color: '#000000'}}>
+        <Text style={{fontWeight: 'bold'}}>Antonyms:</Text> {currentQuestion.antonyms}
+      </Text>
+      {"\n"}
+      <Text style={{color: '#000000'}}>
+        <Text style={{fontWeight: 'bold'}}>Example:</Text> {currentQuestion.example}
+      </Text>
+    </Text>
+  </View>
+)}
 
+{
+  <View style={styles.navigationButtons}>
+    <TouchableOpacity onPress={previousQuestion} style={styles.navButton}>
+      <Text style={styles.navButtonText}>Previous</Text>
+    </TouchableOpacity>
+    <TouchableOpacity onPress={nextQuestion} style={styles.navButton}>
+      <Text style={styles.navButtonText}>Next</Text>
+    </TouchableOpacity>
+  </View>
+}
+    </SafeAreaView>
+  );
+};
 const styles = StyleSheet.create({
-  titleContainer: {
-    flexDirection: 'row',
+  container: {
+    flexGrow: 1,
+    marginTop:100,
+    // justifyContent: 'center',
     alignItems: 'center',
-    gap: 8,
+    padding: 20,
   },
-  stepContainer: {
-    gap: 8,
-    marginBottom: 8,
+  questionText: {
+    fontSize: 20,
+    marginBottom: 20,
+    textAlign: 'center',
+    color: '#ffffff',
   },
-  reactLogo: {
-    height: 178,
-    width: 290,
-    bottom: 0,
-    left: 0,
+  optionButton: {
+    backgroundColor: '#e0e0e0',
+    padding: 15,
+    marginVertical: 8,
+    width: '100%',
+    alignItems: 'center',
+    borderRadius: 8,
+  },
+  optionText: {
+    fontSize: 16,
+  },
+  explanationContainer: {
+    marginTop: 20,
+    padding: 15,
+    backgroundColor: '#f0f0f0',
+    borderRadius: 8,
+    width: '100%',
+  },
+  explanationLabel: {
+    fontWeight: 'bold',
+  },
+  explanationText: {
+    fontSize: 14,
+    lineHeight: 20,
+  },
+
+  navigationButtons: {
     position: 'absolute',
+    bottom: 40,
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  navButton: {
+    padding: 10,
+    backgroundColor: '#4CAF50',
+    borderRadius: 5,
+    flex: 1,
+    marginHorizontal: 5,
+  },
+  navButtonText: {
+    color: '#FFFFFF',
+    textAlign: 'center',
+    fontSize: 16,
   },
 });
+
+export default QuizComponent;

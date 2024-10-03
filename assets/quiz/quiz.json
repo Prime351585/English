@@ -1,0 +1,542 @@
+{
+    "questions": [
+
+      
+        {
+          "id": 0,
+          "word": "Abandon",
+          "type": "synonym",
+          "correct_answer": "desert",
+          "options": ["desert", "embrace", "support", "maintain"],
+          "explanation": "Meaning: to leave someone or something permanently. Synonym: desert. Antonym: embrace. Example: The crew had to abandon ship as it was sinking rapidly."
+        },
+        {
+          "id": 1,
+          "word": "Abettor",
+          "type": "antonym",
+          "correct_answer": "opponent",
+          "options": ["opponent", "accomplice", "instigator", "helper"],
+          "explanation": "Meaning: a person who encourages or assists someone to do something wrong or illegal. Antonym: opponent. Synonym: accomplice, instigator. Example: He was charged as an abettor in the robbery for providing information about the bank's security system."
+        },
+        {
+          "id": 2,
+          "word": "Abnegation",
+          "type": "synonym",
+          "correct_answer": "self-denial",
+          "options": ["self-denial", "indulgence", "renunciation", "acceptance"],
+          "explanation": "Meaning: the act of renouncing or rejecting something. Synonym: self-denial, renunciation. Antonym: indulgence. Example: His life of abnegation and service to others was truly inspiring."
+        },
+        {
+          "id": 3,
+          "word": "Abridge",
+          "type": "antonym",
+          "correct_answer": "extend",
+          "options": ["extend", "shorten", "condense", "summarize"],
+          "explanation": "Meaning: to shorten a piece of writing without losing the sense. Antonym: extend. Synonym: shorten, condense. Example: The editor asked the author to abridge the novel to make it more marketable."
+        },
+        {
+          "id": 4,
+          "word": "Abundant",
+          "type": "synonym",
+          "correct_answer": "plentiful",
+          "options": ["plentiful", "scarce", "copious", "rare"],
+          "explanation": "Meaning: existing or available in large quantities. Synonym: plentiful, copious. Antonym: scarce. Example: The orchard produced an abundant crop of apples this year."
+        },
+        {
+          "id": 5,
+          "word": "Behaviour",
+          "type": "synonym",
+          "correct_answer": "conduct",
+          "options": ["conduct", "appearance", "demeanor", "misbehavior"],
+          "explanation": "Meaning: the way in which one acts or conducts oneself. Synonym: conduct, demeanor. Example: The teacher praised the students for their exemplary behaviour during the field trip."
+        },
+        {
+          "id": 6,
+          "word": "Bereft",
+          "type": "antonym",
+          "correct_answer": "fulfilled",
+          "options": ["fulfilled", "deprived", "lacking", "devoid"],
+          "explanation": "Meaning: deprived of or lacking something. Antonym: fulfilled. Synonym: deprived, lacking. Example: After losing her job, she felt bereft of purpose and direction."
+        },
+        {
+          "id": 7,
+          "word": "Bias",
+          "type": "antonym",
+          "correct_answer": "impartiality",
+          "options": ["impartiality", "prejudice", "favoritism", "inclination"],
+          "explanation": "Meaning: prejudice in favor of or against one thing, person, or group. Antonym: impartiality. Synonym: prejudice, favoritism. Example: The journalist strived to report the news without bias."
+        },
+        {
+          "id": 8,
+          "word": "Brutal",
+          "type": "antonym",
+          "correct_answer": "gentle",
+          "options": ["gentle", "savage", "cruel", "harsh"],
+          "explanation": "Meaning: savagely violent or cruel. Antonym: gentle. Synonym: savage, cruel. Example: The brutal attack left the victim severely injured and traumatized."
+        },
+        {
+          "id": 9,
+          "word": "Callous",
+          "type": "synonym",
+          "correct_answer": "insensitive",
+          "options": ["insensitive", "compassionate", "unfeeling", "empathetic"],
+          "explanation": "Meaning: showing or having an insensitive and cruel disregard for others. Synonym: insensitive, unfeeling. Antonym: compassionate. Example: His callous remarks hurt her feelings deeply."
+        },
+        {
+          "id": 10,
+          "word": "Calm",
+          "type": "antonym",
+          "correct_answer": "agitated",
+          "options": ["agitated", "serene", "peaceful", "tranquil"],
+          "explanation": "Meaning: not showing or feeling nervousness, anger, or other strong emotions. Antonym: agitated. Synonym: serene, peaceful. Example: Despite the chaos around her, she remained calm and focused."
+        },
+        {
+          "id": 11,
+          "word": "Carouse",
+          "type": "synonym",
+          "correct_answer": "revel",
+          "options": ["revel", "abstain", "celebrate", "indulge"],
+          "explanation": "Meaning: to drink alcohol and enjoy oneself with others in a noisy, lively way. Synonym: revel, celebrate. Antonym: abstain. Example: The team decided to carouse all night after winning the championship."
+        },
+        {
+          "id": 12,
+          "word": "Casual",
+          "type": "antonym",
+          "correct_answer": "formal",
+          "options": ["formal", "informal", "relaxed", "nonchalant"],
+          "explanation": "Meaning: relaxed and unconcerned. Antonym: formal. Synonym: informal, relaxed. Example: The office has a casual dress code on Fridays."
+        },
+        {
+          "id": 13,
+          "word": "Crescendo",
+          "type": "antonym",
+          "correct_answer": "diminuendo",
+          "options": ["diminuendo", "climax", "peak", "buildup"],
+          "explanation": "Meaning: a gradual increase in loudness or intensity. Antonym: diminuendo. Synonym: climax, peak. Example: The music reached a crescendo as the entire orchestra joined in."
+        },
+        {
+          "id": 14,
+          "word": "Crusade",
+          "type": "synonym",
+          "correct_answer": "campaign",
+          "options": ["campaign", "surrender", "quest", "mission"],
+          "explanation": "Meaning: a vigorous campaign for political, social, or religious change. Synonym: campaign, quest. Example: He led a crusade against corruption in the local government."
+        },
+        {
+          "id": 15,
+          "word": "Cupidity",
+          "type": "synonym",
+          "correct_answer": "greed",
+          "options": ["greed", "generosity", "avarice", "philanthropy"],
+          "explanation": "Meaning: greed for money or possessions. Synonym: greed, avarice. Antonym: generosity. Example: His cupidity led him to embezzle funds from the company."
+        },
+        {
+          "id": 16,
+          "word": "Damage",
+          "type": "antonym",
+          "correct_answer": "repair",
+          "options": ["harm", "repair", "injure", "destroy"],
+          "explanation": "Meaning: physical harm caused to something in such a way as to impair its value, usefulness, or normal function. Antonym: repair. Synonym: harm, injure. Example: The storm caused significant damage to the coastal properties."
+        },
+        {
+          "id": 17,
+          "word": "Decorate",
+          "type": "antonym",
+          "correct_answer": "strip",
+          "options": ["adorn", "strip", "embellish", "ornament"],
+          "explanation": "Meaning: to make something look more attractive by adding ornaments, color, etc. Antonym: strip. Synonym: adorn, embellish. Example: They decided to decorate the house for the holiday season."
+        },
+        {
+          "id": 18,
+          "word": "Deformity",
+          "type": "antonym",
+          "correct_answer": "perfection",
+          "options": ["malformation", "perfection", "disfigurement", "abnormality"],
+          "explanation": "Meaning: a physical malformation or distortion. Antonym: perfection. Synonym: malformation, disfigurement. Example: The accident left him with a slight deformity in his left hand."
+        },
+        {
+          "id": 19,
+          "word": "Earnest",
+          "type": "antonym",
+          "correct_answer": "frivolous",
+          "options": ["sincere", "frivolous", "serious", "committed"],
+          "explanation": "Meaning: resulting from or showing sincere and intense conviction. Antonym: frivolous. Synonym: sincere, serious. Example: His earnest plea for help touched everyone's hearts."
+        },
+        {
+          "id": 20,
+          "word": "Embargo",
+          "type": "synonym",
+          "correct_answer": "ban",
+          "options": ["ban", "permission", "prohibition", "sanction"],
+          "explanation": "Meaning: an official ban on trade or other commercial activity with a particular country. Synonym: ban, prohibition. Antonym: permission. Example: The government imposed an embargo on all imports from the hostile nation."
+        },
+        {
+          "id": 21,
+          "word": "Emergency",
+          "type": "antonym",
+          "correct_answer": "normalcy",
+          "options": ["crisis", "normalcy", "urgency", "calamity"],
+          "explanation": "Meaning: a serious, unexpected, and often dangerous situation requiring immediate action. Antonym: normalcy. Synonym: crisis, urgency. Example: The hospital staff responded quickly to the medical emergency."
+        },
+        {
+          "id": 22,
+          "word": "Esoteric",
+          "type": "antonym",
+          "correct_answer": "common",
+          "options": ["obscure", "common", "arcane", "mysterious"],
+          "explanation": "Meaning: intended for or likely to be understood by only a small number of people with a specialized knowledge or interest. Antonym: common. Synonym: obscure, arcane. Example: The professor's lecture on quantum mechanics was too esoteric for most of the students."
+        },
+        {
+          "id": 23,
+          "word": "Eternal",
+          "type": "antonym",
+          "correct_answer": "temporary",
+          "options": ["everlasting", "temporary", "perpetual", "endless"],
+          "explanation": "Meaning: lasting or existing forever; without end. Antonym: temporary. Synonym: everlasting, perpetual. Example: The ancient monument stood as a symbol of eternal love."
+        },
+        {
+          "id": 24,
+          "word": "Exceptional",
+          "type": "antonym",
+          "correct_answer": "ordinary",
+          "options": ["extraordinary", "ordinary", "outstanding", "remarkable"],
+          "explanation": "Meaning: unusual; not typical. Antonym: ordinary. Synonym: extraordinary, outstanding. Example: The student's exceptional performance earned her a full scholarship."
+        },
+        {
+          "id": 25,
+          "word": "Fascinate",
+          "type": "antonym",
+          "correct_answer": "bore",
+          "options": ["captivate", "bore", "enchant", "enthrall"],
+          "explanation": "Meaning: to attract and hold attentively by a unique power, personal charm, unusual nature, or some other special quality. Antonym: bore. Synonym: captivate, enchant. Example: The magician's tricks fascinated both children and adults alike."
+        },
+        {
+          "id": 26,
+          "word": "Ferocious",
+          "type": "antonym",
+          "correct_answer": "gentle",
+          "options": ["fierce", "gentle", "savage", "vicious"],
+          "explanation": "Meaning: savagely fierce, cruel, or violent. Antonym: gentle. Synonym: fierce, savage. Example: The ferocious storm destroyed everything in its path."
+        },
+        {
+          "id": 27,
+          "word": "Fiendish",
+          "type": "synonym",
+          "correct_answer": "diabolical",
+          "options": ["diabolical", "angelic", "wicked", "demonic"],
+          "explanation": "Meaning: extremely cruel or unpleasant. Synonym: diabolical, wicked. Antonym: angelic. Example: The detective was baffled by the criminal's fiendish plot."
+        },
+        {
+          "id": 28,
+          "word": "Genuine",
+          "type": "antonym",
+          "correct_answer": "fake",
+          "options": ["authentic", "fake", "real", "sincere"],
+          "explanation": "Meaning: truly what something is said to be; authentic. Antonym: fake. Synonym: authentic, real. Example: The expert confirmed that the painting was a genuine Picasso."
+        },
+        {
+          "id": 29,
+          "word": "Genre",
+          "type": "synonym",
+          "correct_answer": "category",
+          "options": ["category", "style", "type", "class"],
+          "explanation": "Meaning: a category of artistic composition, characterized by similarities in form, style, or subject matter. Synonym: category, type. Example: Science fiction is a popular genre in both literature and film."
+        },
+        {
+          "id": 30,
+          "word": "Gigantic",
+          "type": "antonym",
+          "correct_answer": "tiny",
+          "options": ["enormous", "tiny", "colossal", "massive"],
+          "explanation": "Meaning: of very great size or extent; huge or enormous. Antonym: tiny. Synonym: enormous, colossal. Example: The gigantic redwood trees towered over the forest."
+        },
+        {
+          "id": 31,
+          "word": "Guilt",
+          "type": "antonym",
+          "correct_answer": "innocence",
+          "options": ["remorse", "innocence", "culpability", "shame"],
+          "explanation": "Meaning: the fact of having committed a specified or implied offense or crime. Antonym: innocence. Synonym: culpability, remorse. Example: His guilt over the accident haunted him for years."
+        },
+        {
+          "id": 32,
+          "word": "Guzzle",
+          "type": "antonym",
+          "correct_answer": "sip",
+          "options": ["gulp", "sip", "swill", "devour"],
+          "explanation": "Meaning: to drink greedily or habitually. Antonym: sip. Synonym: gulp, swill. Example: He guzzled down the entire bottle of water after the long run."
+        },
+        {
+          "id": 33,
+          "word": "Haughty",
+          "type": "antonym",
+          "correct_answer": "humble",
+          "options": ["arrogant", "humble", "proud", "disdainful"],
+          "explanation": "Meaning: arrogantly superior and disdainful. Antonym: humble. Synonym: arrogant, proud. Example: The haughty nobleman refused to speak with the commoners."
+        },
+        {
+          "id": 34,
+          "word": "Hazardous",
+          "type": "antonym",
+          "correct_answer": "safe",
+          "options": ["perilous", "secure", "safe", "dangerous"],
+          "explanation": "Meaning: risky; dangerous. Antonym: safe. Synonym: perilous, dangerous. Example: Working with chemicals can be hazardous if proper safety precautions are not taken."
+        },
+        {
+          "id": 35,
+          "word": "Humility",
+          "type": "antonym",
+          "correct_answer": "arrogance",
+          "options": ["modesty", "pride", "arrogance", "meekness"],
+          "explanation": "Meaning: a modest or low view of one's own importance. Antonym: arrogance. Synonym: modesty, meekness. Example: Despite his great success, he always maintained his humility."
+        },
+        {
+          "id": 36,
+          "word": "Illiterate",
+          "type": "antonym",
+          "correct_answer": "educated",
+          "options": ["uneducated", "educated", "unschooled", "literate"],
+          "explanation": "Meaning: unable to read or write. Antonym: educated, literate. Synonym: uneducated, unschooled. Example: The program aimed to reduce the number of illiterate adults in the community."
+        },
+        {
+          "id": 37,
+          "word": "Imperious",
+          "type": "synonym",
+          "correct_answer": "domineering",
+          "options": ["submissive", "domineering", "overbearing", "humble"],
+          "explanation": "Meaning: arrogant and domineering. Synonym: domineering, overbearing. Antonym: submissive, humble. Example: The imperious manager's attitude made his employees feel uncomfortable."
+        },
+        {
+          "id": 38,
+          "word": "Impertinent",
+          "type": "antonym",
+          "correct_answer": "respectful",
+          "options": ["rude", "polite", "insolent", "respectful"],
+          "explanation": "Meaning: not showing proper respect; rude. Antonym: respectful, polite. Synonym: rude, insolent. Example: The student's impertinent remark earned him a reprimand from the teacher."
+        },
+        {
+          "id": 39,
+          "word": "Incinerate",
+          "type": "synonym",
+          "correct_answer": "burn",
+          "options": ["extinguish", "burn", "ignite", "destroy"],
+          "explanation": "Meaning: to burn something completely. Synonym: burn, destroy. Antonym: extinguish. Example: The waste materials were incinerated at high temperatures."
+        },
+        {
+          "id": 40,
+          "word": "Jaded",
+          "type": "antonym",
+          "correct_answer": "fresh",
+          "options": ["tired", "enthusiastic", "fresh", "cynical"],
+          "explanation": "Meaning: tired, bored, or lacking enthusiasm, typically after having had too much of something. Antonym: fresh, enthusiastic. Synonym: tired, cynical. Example: After years in the industry, he had become jaded and lost his passion for the work."
+        },
+        {
+          "id": 41,
+          "word": "Jolly",
+          "type": "synonym",
+          "correct_answer": "cheerful",
+          "options": ["gloomy", "cheerful", "merry", "somber"],
+          "explanation": "Meaning: happy and cheerful. Synonym: cheerful, merry. Antonym: gloomy, somber. Example: The jolly old man always had a smile for everyone he met."
+        },
+        {
+          "id": 42,
+          "word": "Judicious",
+          "type": "antonym",
+          "correct_answer": "unwise",
+          "options": ["prudent", "rash", "unwise", "sensible"],
+          "explanation": "Meaning: having, showing, or done with good judgment or sense. Antonym: unwise, rash. Synonym: prudent, sensible. Example: The committee made a judicious decision after carefully considering all the facts."
+        },
+        {
+          "id": 43,
+          "word": "Knavery",
+          "type": "synonym",
+          "correct_answer": "dishonesty",
+          "options": ["honesty", "dishonesty", "trickery", "integrity"],
+          "explanation": "Meaning: dishonest or unscrupulous behavior. Synonym: dishonesty, trickery. Antonym: honesty, integrity. Example: The politician's knavery was exposed when his corrupt dealings came to light."
+        },
+        {
+          "id": 44,
+          "word": "Laborious",
+          "type": "antonym",
+          "correct_answer": "effortless",
+          "options": ["arduous", "easy", "effortless", "toilsome"],
+          "explanation": "Meaning: requiring considerable effort and time. Antonym: effortless, easy. Synonym: arduous, toilsome. Example: The restoration of the ancient manuscript was a laborious process that took several years."
+        },
+        {
+          "id": 45,
+          "word": "Laconic",
+          "type": "antonym",
+          "correct_answer": "verbose",
+          "options": ["terse", "wordy", "concise", "verbose"],
+          "explanation": "Meaning: using very few words. Antonym: verbose, wordy. Synonym: terse, concise. Example: His laconic response of just 'No' left many questions unanswered."
+        },
+        {
+          "id": 46,
+          "word": "Lament",
+          "type": "synonym",
+          "correct_answer": "mourn",
+          "options": ["celebrate", "mourn", "rejoice", "grieve"],
+          "explanation": "Meaning: to express sorrow, regret, or unhappiness about something. Synonym: mourn, grieve. Antonym: celebrate, rejoice. Example: The whole nation lamented the loss of the beloved leader."
+        },
+        {
+          "id": 47,
+          "word": "Lethargy",
+          "type": "antonym",
+          "correct_answer": "energy",
+          "options": ["sluggishness", "vitality", "energy", "drowsiness"],
+          "explanation": "Meaning: a lack of energy and enthusiasm. Antonym: energy, vitality. Synonym: sluggishness, drowsiness. Example: The extreme heat caused a feeling of lethargy among the workers."
+        },
+        {
+          "id": 48,
+          "word": "Maestro",
+          "type": "synonym",
+          "correct_answer": "expert",
+          "options": ["novice", "expert", "amateur", "master"],
+          "explanation": "Meaning: a distinguished conductor or performer of classical music. Synonym: expert, master. Antonym: novice, amateur. Example: The maestro's interpretation of the symphony was breathtaking."
+        },
+        {
+          "id": 49,
+          "word": "Magnificent",
+          "type": "antonym",
+          "correct_answer": "ordinary",
+          "options": ["splendid", "mediocre", "ordinary", "grand"],
+          "explanation": "Meaning: extremely beautiful, elaborate, or impressive. Antonym: ordinary, mediocre. Synonym: splendid, grand. Example: The magnificent palace attracted tourists from all over the world."
+        },
+        {
+          "id": 50,
+          "word": "Marvellous",
+          "type": "synonym",
+          "correct_answer": "wonderful",
+          "options": ["ordinary", "wonderful", "amazing", "mundane"],
+          "explanation": "Meaning: causing great wonder; extraordinary. Synonym: wonderful, amazing. Antonym: ordinary, mundane. Example: The magician's marvellous tricks left the audience in awe."
+        },
+        {
+          "id": 51,
+          "word": "Meagre",
+          "type": "antonym",
+          "correct_answer": "abundant",
+          "options": ["scarce", "plentiful", "abundant", "sparse"],
+          "explanation": "Meaning: lacking in quantity or quality. Antonym: abundant, plentiful. Synonym: scarce, sparse. Example: The meagre harvest barely provided enough food for the winter."
+        },
+        {
+          "id": 52,
+          "word": "Multitude",
+          "type": "antonym",
+          "correct_answer": "scarcity",
+          "options": ["abundance", "scarcity", "throng", "few"],
+          "explanation": "Meaning: a large number of people or things. Antonym: scarcity, few. Synonym: abundance, throng. Example: A multitude of stars could be seen in the clear night sky."
+        },
+        {
+          "id": 53,
+          "word": "Nauseous",
+          "type": "synonym",
+          "correct_answer": "sickening",
+          "options": ["pleasant", "sickening", "disgusting", "appealing"],
+          "explanation": "Meaning: feeling inclined to vomit. Synonym: sickening, disgusting. Antonym: pleasant, appealing. Example: The strong smell of chemicals made him feel nauseous."
+        },
+        {
+          "id": 54,
+          "word": "Nice",
+          "type": "antonym",
+          "correct_answer": "unpleasant",
+          "options": ["pleasant", "nasty", "unpleasant", "kind"],
+          "explanation": "Meaning: pleasant; agreeable; satisfactory. Antonym: unpleasant, nasty. Synonym: pleasant, kind. Example: It was nice of her to help with the cleanup after the party."
+        },
+        {
+          "id": 55,
+          "word": "Notable",
+          "type": "synonym",
+          "correct_answer": "remarkable",
+          "options": ["ordinary", "remarkable", "significant", "unremarkable"],
+          "explanation": "Meaning: worthy of attention or notice; remarkable. Synonym: remarkable, significant. Antonym: ordinary, unremarkable. Example: The scientist made several notable discoveries during her career."
+        },
+        {
+          "id": 56,
+          "word": "Notorious",
+          "type": "antonym",
+          "correct_answer": "reputable",
+          "options": ["infamous", "reputable", "famous", "respected"],
+          "explanation": "Meaning: famous or well known, typically for some bad quality or deed. Antonym: reputable, respected. Synonym: infamous. Example: The notorious criminal was finally captured after years on the run."
+        },
+        {
+          "id": 57,
+          "word": "Obliterate",
+          "type": "antonym",
+          "correct_answer": "preserve",
+          "options": ["destroy", "preserve", "erase", "maintain"],
+          "explanation": "Meaning: destroy utterly; wipe out. Antonym: preserve, maintain. Synonym: destroy, erase. Example: The flood waters obliterated all traces of the ancient settlement."
+        },
+        {
+          "id": 58,
+          "word": "Obsolete",
+          "type": "antonym",
+          "correct_answer": "current",
+          "options": ["outdated", "modern", "current", "antiquated"],
+          "explanation": "Meaning: no longer produced or used; out of date. Antonym: current, modern. Synonym: outdated, antiquated. Example: The old computer system became obsolete with the rapid advancements in technology."
+        },
+        {
+          "id": 59,
+          "word": "Ominous",
+          "type": "antonym",
+          "correct_answer": "auspicious",
+          "options": ["threatening", "promising", "auspicious", "foreboding"],
+          "explanation": "Meaning: giving the impression that something bad or unpleasant is going to happen. Antonym: auspicious, promising. Synonym: threatening, foreboding. Example: The dark, ominous clouds suggested a storm was approaching."
+        },
+        {
+          "id": 60,
+          "word": "Opportune",
+          "type": "antonym",
+          "correct_answer": "untimely",
+          "options": ["timely", "inconvenient", "untimely", "favorable"],
+          "explanation": "Meaning: occurring at a favorable or useful time; well-timed. Antonym: untimely, inconvenient. Synonym: timely, favorable. Example: The rain came at an opportune moment for the farmers' crops."
+        },
+        {
+          "id": 61,
+          "word": "Oracular",
+          "type": "synonym",
+          "correct_answer": "prophetic",
+          "options": ["mundane", "prophetic", "cryptic", "clear"],
+          "explanation": "Meaning: relating to or characteristic of an oracle; prophetic. Synonym: prophetic, cryptic. Antonym: mundane, clear. Example: The oracular pronouncements of the ancient priestess were often difficult to interpret."
+        },
+        {
+          "id": 62,
+          "word": "Pal",
+          "type": "synonym",
+          "correct_answer": "friend",
+          "options": ["enemy", "friend", "buddy", "foe"],
+          "explanation": "Meaning: a close friend. Synonym: friend, buddy. Antonym: enemy, foe. Example: He and his childhood pal have remained close despite living in different countries."
+        },
+        {
+          "id": 63,
+          "word": "Pandemonium",
+          "type": "antonym",
+          "correct_answer": "tranquility",
+          "options": ["chaos", "order", "tranquility", "uproar"],
+          "explanation": "Meaning: wild and noisy disorder or confusion; uproar. Antonym: tranquility, order. Synonym: chaos, uproar. Example: When the fire alarm went off, pandemonium broke out in the crowded theater."
+        },
+        {
+          "id": 64,
+          "word": "Pensive",
+          "type": "antonym",
+          "correct_answer": "carefree",
+          "options": ["thoughtful", "frivolous", "carefree", "reflective"],
+          "explanation": "Meaning: engaged in, involving, or reflecting deep or serious thought. Antonym: carefree, frivolous. Synonym: thoughtful, reflective. Example: She had a pensive expression as she contemplated her next career move."
+        },
+        {
+          "id": 65,
+          "word": "Perennial",
+          "type": "antonym",
+          "correct_answer": "temporary",
+          "options": ["enduring", "fleeting", "temporary", "lasting"],
+          "explanation": "Meaning: lasting or existing for a long or apparently infinite time; enduring or continually recurring. Antonym: temporary, fleeting. Synonym: enduring, lasting. Example: The perennial problem of traffic congestion in the city center remained unsolved."
+        },
+        {
+          "id": 66,
+          "word": "Persuade",
+          "type": "antonym",
+          "correct_answer": "dissuade",
+          "options": ["convince", "discourage", "dissuade", "influence"],
+          "explanation": "Meaning: to cause someone to do something through reasoning or argument. Antonym: dissuade, discourage. Synonym: convince, influence. Example: The lawyer was able to persuade the jury of his client's innocence."
+        }
+    ]
+  }

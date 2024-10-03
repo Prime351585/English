@@ -1,0 +1,1975 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "word": "Intrepid",
+        "type": "antonyms",
+        "correct_answer": "timid",
+        "options": [" unfriendly", " insignificance", " roguish", "timid"],
+        "synonyms": "brave,courageous,dauntless,valiant",
+        "antonyms": "timid,cowardly,fearful",
+        "example": "The intrepid explorer ventured into the uncharted wilderness."
+      },
+      {
+        "id": 2,
+        "word": "Abrogate",
+        "type": "synonyms",
+        "correct_answer": "cancel",
+        "options": [" reverence", "strict", "insufficient", "cancel"],
+        "synonyms": "cancel,revoke,rescind",
+        "antonyms": "establish,institute,enact",
+        "example": "The government abrogated the discriminatory law."
+      },
+      {
+        "id": 3,
+        "word": "Deference",
+        "type": "synonyms",
+        "correct_answer": "respect",
+        "options": [" quiver", " triumph over", "harsh", "respect"],
+        "synonyms": "respect,reverence,veneration",
+        "antonyms": "disrespect,insolence,defiance",
+        "example": "She showed deference to her elders."
+      },
+      {
+        "id": 4,
+        "word": "Covenant",
+        "type": "antonyms",
+        "correct_answer": "disagreement",
+        "options": [" exonerate", " patron", "stasis", "disagreement"],
+        "synonyms": "pact,treaty,alliance",
+        "antonyms": "disagreement,quarrel,dispute",
+        "example": "The two countries signed a peace covenant."
+      },
+      {
+        "id": 5,
+        "word": "Obnoxious",
+        "type": "antonyms",
+        "correct_answer": "pleasant",
+        "options": [" superb", "wasteful", " submissive", "pleasant"],
+        "synonyms": "offensive,disagreeable,repulsive",
+        "antonyms": "pleasant,agreeable,delightful",
+        "example": "His obnoxious behavior made everyone uncomfortable."
+      },
+      {
+        "id": 6,
+        "word": "Proliferate-",
+        "type": "synonyms",
+        "correct_answer": "multiply",
+        "options": [" resentment", "disarmament", "destroy", "multiply"],
+        "synonyms": "multiply,grow,expand",
+        "antonyms": "decrease,shrink,diminish",
+        "example": "Rumors proliferated after the accident."
+      },
+      {
+        "id": 7,
+        "word": "Paradox",
+        "type": "synonyms",
+        "correct_answer": "contradiction",
+        "options": [
+          " ineptitude",
+          " preoccupation",
+          "announced",
+          "contradiction"
+        ],
+        "synonyms": "contradiction,inconsistency,absurdity",
+        "antonyms": "consistency,harmony,agreement",
+        "example": "It was a paradox that she was both a genius and a fool."
+      },
+      {
+        "id": 8,
+        "word": "Colossal",
+        "type": "synonyms",
+        "correct_answer": "huge",
+        "options": ["yielding", " insulting", "deny", "huge"],
+        "synonyms": "huge,massive,enormous",
+        "antonyms": "tiny,small,miniature",
+        "example": "The colossal statue dominated the skyline."
+      },
+      {
+        "id": 9,
+        "word": "Inception",
+        "type": "synonyms",
+        "correct_answer": "start",
+        "options": ["charged", " submissive", " counterfeit", "start"],
+        "synonyms": "start,beginning,commencement",
+        "antonyms": "end,finish,conclusion",
+        "example": "From its inception, the company was doomed to fail."
+      },
+      {
+        "id": 10,
+        "word": "Grandeur",
+        "type": "antonyms",
+        "correct_answer": "meanness",
+        "options": [" determined", "repel", " unchanging", "meanness"],
+        "synonyms": "magnificence,splendor,majesty",
+        "antonyms": "meanness,pettiness,smallness",
+        "example": "The grandeur of the palace was breathtaking."
+      },
+      {
+        "id": 11,
+        "word": "Tramp",
+        "type": "synonyms",
+        "correct_answer": "vagrant",
+        "options": ["disparaging", "animate", "foolish", "vagrant"],
+        "synonyms": "vagrant,hobo,bum",
+        "antonyms": "homeowner,resident,dweller",
+        "example": "The tramp asked for a handout."
+      },
+      {
+        "id": 12,
+        "word": "Consignee",
+        "type": "antonyms",
+        "correct_answer": "sender",
+        "options": [" spoil", " decline", "decrease", "sender"],
+        "synonyms": "recipient,receiver,addressee",
+        "antonyms": "sender,shipper,dispatcher",
+        "example": "The consignee refused to accept the damaged goods."
+      },
+      {
+        "id": 13,
+        "word": "Infatuation",
+        "type": "synonyms",
+        "correct_answer": "crush",
+        "options": [" ruin", "request", "fertile", "crush"],
+        "synonyms": "crush,obsession,mania",
+        "antonyms": "indifference,disinterest,apathy",
+        "example": "Her infatuation with him was obvious."
+      },
+      {
+        "id": 14,
+        "word": "Beautiful",
+        "type": "antonyms",
+        "correct_answer": "ugly",
+        "options": ["bold", " dismal", " chatty", "ugly"],
+        "synonyms": "pretty,attractive,lovely",
+        "antonyms": "ugly,unattractive,hideous",
+        "example": "The sunset was beautiful."
+      },
+      {
+        "id": 15,
+        "word": "Momentous",
+        "type": "antonyms",
+        "correct_answer": "unimportant",
+        "options": ["condemn", "harmony", " stationary", "unimportant"],
+        "synonyms": "significant,crucial,vital",
+        "antonyms": "unimportant,trivial,insignificant",
+        "example": "The decision was momentous."
+      },
+      {
+        "id": 16,
+        "word": "Quiver",
+        "type": "antonyms",
+        "correct_answer": "be still",
+        "options": [" skinflint", " decline", " benign", "be still"],
+        "synonyms": "tremble,shiver,shake",
+        "antonyms": "be still,be motionless,be calm",
+        "example": "Her lips quivered as she tried to hold back tears."
+      },
+      {
+        "id": 17,
+        "word": "Adulation",
+        "type": "antonyms",
+        "correct_answer": "criticism",
+        "options": [" dishonor", "forgiving", "cowardly", "criticism"],
+        "synonyms": "flattery,praise,commendation",
+        "antonyms": "criticism,condemnation,censure",
+        "example": "The actor was overwhelmed by the adulation of his fans."
+      },
+      {
+        "id": 18,
+        "word": "Contemplation",
+        "type": "synonyms",
+        "correct_answer": "thought",
+        "options": [" institute", " give in", " roaming", "thought"],
+        "synonyms": "thought,reflection,meditation",
+        "antonyms": "impulsiveness, rashness, recklessness",
+        "example": "She spent hours in contemplation."
+      },
+      {
+        "id": 19,
+        "word": "Diligent",
+        "type": "antonyms",
+        "correct_answer": "lazy",
+        "options": ["revoke", "huge", "order", "lazy"],
+        "synonyms": "industrious,assiduous,persevering",
+        "antonyms": "lazy,slothful,indolent",
+        "example": "The diligent student studied for hours every night."
+      },
+      {
+        "id": 20,
+        "word": "Censure",
+        "type": "antonyms",
+        "correct_answer": "praise",
+        "options": [" great", " remain", " gesture", "praise"],
+        "synonyms": "criticize, condemn, reprimand",
+        "antonyms": "praise, commend, applaud",
+        "example": "The senator was censured for his unethical behavior."
+      },
+      {
+        "id": 21,
+        "word": "Fatal",
+        "type": "synonyms",
+        "correct_answer": "deadly",
+        "options": [" small", " increase", "disarmament", "deadly"],
+        "synonyms": "deadly,lethal,mortal",
+        "antonyms": "harmless,innocent,benign",
+        "example": "The injury was fatal."
+      },
+      {
+        "id": 22,
+        "word": "Doleful",
+        "type": "antonyms",
+        "correct_answer": "joyful",
+        "options": ["respect", " presentiment", " humble", "joyful"],
+        "synonyms": "sad,mournful,melancholy",
+        "antonyms": "joyful, cheerful, happy",
+        "example": "She had a doleful expression on her face."
+      },
+      {
+        "id": 23,
+        "word": "Gruff",
+        "type": "synonyms",
+        "correct_answer": "rough",
+        "options": [" feebleness", " hide", " permanence", "rough"],
+        "synonyms": "rough,harsh,brusque",
+        "antonyms": "gentle, polite, courteous",
+        "example": "He was a gruff old man."
+      },
+      {
+        "id": 24,
+        "word": "Fidelity",
+        "type": "antonyms",
+        "correct_answer": "betrayal",
+        "options": [" frequent", "large", "wordy", "betrayal"],
+        "synonyms": "loyalty,faithfulness,devotion",
+        "antonyms": "betrayal, treachery, disloyalty",
+        "example": "He was known for his fidelity to his friends."
+      },
+      {
+        "id": 25,
+        "word": "Infructuous",
+        "type": "synonyms",
+        "correct_answer": "unproductive",
+        "options": ["natural", " joyous", " hatred", "unproductive"],
+        "synonyms": "unproductive, fruitless, barren",
+        "antonyms": "productive, fruitful, fertile",
+        "example": "His efforts were infructuous."
+      },
+      {
+        "id": 26,
+        "word": "Garnish",
+        "type": "synonyms",
+        "correct_answer": "decorate",
+        "options": [" improve", " sedentary", " secure", "decorate"],
+        "synonyms": "decorate, adorn, embellish",
+        "antonyms": "simplify, strip, bare",
+        "example": "She garnished the salad with fresh herbs."
+      },
+      {
+        "id": 27,
+        "word": "Mentor",
+        "type": "antonyms",
+        "correct_answer": "student",
+        "options": ["decrease", " incredulous", " hostile", "student"],
+        "synonyms": "tutor, guide, coach",
+        "antonyms": "student, pupil, apprentice",
+        "example": "He was a mentor to many young people."
+      },
+      {
+        "id": 28,
+        "word": "Superstitious",
+        "type": "synonyms",
+        "correct_answer": "credulous",
+        "options": [" irreverent", " rough-textured", " lively", "credulous"],
+        "synonyms": "credulous, gullible, naive",
+        "antonyms": "skeptical, incredulous, doubting",
+        "example": "She was a superstitious woman."
+      },
+      {
+        "id": 29,
+        "word": "Ravage",
+        "type": "synonyms",
+        "correct_answer": "destroy",
+        "options": [" fruitless", " insignificance", "benefit", "destroy"],
+        "synonyms": "destroy, devastate, ruin",
+        "antonyms": "rebuild, restore, repair",
+        "example": "The storm ravaged the town."
+      },
+      {
+        "id": 30,
+        "word": "Successive",
+        "type": "antonyms",
+        "correct_answer": "simultaneous",
+        "options": [
+          " upright person",
+          "misbehavior",
+          "forefather",
+          "simultaneous"
+        ],
+        "synonyms": "consecutive, sequential, serial",
+        "antonyms": "simultaneous, concurrent, parallel",
+        "example": "He won the championship for three successive years."
+      },
+      {
+        "id": 31,
+        "word": "Abrogate",
+        "type": "antonyms",
+        "correct_answer": "establish",
+        "options": ["standard", " fondness", " deception", "establish"],
+        "synonyms": "cancel, revoke, rescind",
+        "antonyms": "establish, institute, enact",
+        "example": "The government abrogated the discriminatory law."
+      },
+      {
+        "id": 32,
+        "word": "Delineate",
+        "type": "synonyms",
+        "correct_answer": "describe",
+        "options": [" endlessly", "harsh", " inland", "describe"],
+        "synonyms": "describe, portray, outline",
+        "antonyms": "obscure, conceal, hide",
+        "example": "The map delineated the boundaries of the property."
+      },
+      {
+        "id": 33,
+        "word": "Menace",
+        "type": "antonyms",
+        "correct_answer": "safety",
+        "options": [" unpleasant", "trivial", "intuition", "safety"],
+        "synonyms": "threat, danger, hazard",
+        "antonyms": "safety, security, protection",
+        "example": "The storm posed a menace to the coastal town."
+      },
+      {
+        "id": 34,
+        "word": "Occult",
+        "type": "antonyms",
+        "correct_answer": "natural",
+        "options": [" free-lance", "smallness", " meeting", "natural"],
+        "synonyms": "supernatural, mystical, magical",
+        "antonyms": "natural, ordinary, mundane",
+        "example": "She was interested in the occult."
+      },
+      {
+        "id": 35,
+        "word": "Vindicate",
+        "type": "synonyms",
+        "correct_answer": "justify",
+        "options": [" exposed", " lucid", "descendant", "justify"],
+        "synonyms": "justify, exonerate, acquit",
+        "antonyms": "condemn, convict, incriminate",
+        "example": "The evidence vindicated him of the crime."
+      },
+      {
+        "id": 36,
+        "word": "Benevolence",
+        "type": "antonyms",
+        "correct_answer": "cruelty",
+        "options": [" conceal", " closeness", " adequate", "cruelty"],
+        "synonyms": "kindness, generosity, charity",
+        "antonyms": "cruelty, meanness, stinginess",
+        "example": "He was known for his benevolence."
+      },
+      {
+        "id": 37,
+        "word": "Panacea",
+        "type": "synonyms",
+        "correct_answer": "cure-all",
+        "options": ["daydream", "respect", " fantasy", "cure-all"],
+        "synonyms": "cure-all, universal remedy, elixir",
+        "antonyms": "ineffective, useless, worthless",
+        "example": "There is no panacea for the world's problems."
+      },
+      {
+        "id": 38,
+        "word": "Prudent",
+        "type": "synonyms",
+        "correct_answer": "wise",
+        "options": ["joyful", " donor", " absurd", "wise"],
+        "synonyms": "wise, cautious, prudent",
+        "antonyms": "foolish, reckless, imprudent",
+        "example": "She was a prudent investor."
+      },
+      {
+        "id": 39,
+        "word": "Amicable",
+        "type": "antonyms",
+        "correct_answer": "hostile",
+        "options": ["wasteful", " abhor", "harmful", "hostile"],
+        "synonyms": "friendly, peaceful, harmonious",
+        "antonyms": "hostile, unfriendly, antagonistic",
+        "example": "They settled their dispute amicably."
+      },
+      {
+        "id": 40,
+        "word": "Irreverence",
+        "type": "antonyms",
+        "correct_answer": "respect",
+        "options": [" expand", " devout", "decrease", "respect"],
+        "synonyms": "disrespect, irreverence, irreverent",
+        "antonyms": "respect, reverence, veneration",
+        "example": "His irreverence towards authority was shocking."
+      },
+      {
+        "id": 41,
+        "word": "Ceremonial",
+        "type": "antonyms",
+        "correct_answer": "informal",
+        "options": [" devastate", "simplify", " discordant", "informal"],
+        "synonyms": "ritual, formal, ceremonial",
+        "antonyms": "informal, casual, everyday",
+        "example": "The ceremonial dress was very ornate."
+      },
+      {
+        "id": 42,
+        "word": "Propitiate",
+        "type": "synonyms",
+        "correct_answer": "appease",
+        "options": ["shrink", " translucent", " enlarge", "appease"],
+        "synonyms": "appease, placate, conciliate",
+        "antonyms": "anger, provoke, antagonize",
+        "example": "He tried to propitiate the angry gods with a sacrifice."
+      },
+      {
+        "id": 43,
+        "word": "Capitulate",
+        "type": "synonyms",
+        "correct_answer": "surrender",
+        "options": ["agree", " detrimental", " bliss", "surrender"],
+        "synonyms": "surrender, yield, give in",
+        "antonyms": "resist, fight, oppose",
+        "example": "The army capitulated to the enemy."
+      },
+      {
+        "id": 44,
+        "word": "Estranged",
+        "type": "synonyms",
+        "correct_answer": "alienated",
+        "options": [" uncertain", " confident", " indicted", "alienated"],
+        "synonyms": "alienated, distanced, separated",
+        "antonyms": "close, intimate, friendly",
+        "example": "She was estranged from her family."
+      },
+      {
+        "id": 45,
+        "word": "Restive",
+        "type": "antonyms",
+        "correct_answer": "calm",
+        "options": ["exclude", "miser", " detrimental", "calm"],
+        "synonyms": "impatient, restless, agitated",
+        "antonyms": "calm, peaceful, tranquil",
+        "example": "The horse was growing restive."
+      },
+      {
+        "id": 46,
+        "word": "Nomadic",
+        "type": "antonyms",
+        "correct_answer": "settled",
+        "options": [" harmonious", "clarity", " empower", "settled"],
+        "synonyms": "wandering, roaming, itinerant",
+        "antonyms": "settled, stationary, sedentary",
+        "example": "The nomadic tribes moved from place to place."
+      },
+      {
+        "id": 47,
+        "word": "Derogatory",
+        "type": "antonyms",
+        "correct_answer": "complimentary",
+        "options": ["skill", " everyday", " avarice", "complimentary"],
+        "synonyms": "disparaging, insulting, contemptuous",
+        "antonyms": "complimentary, flattering, praising",
+        "example": "He made derogatory remarks about her appearance."
+      },
+      {
+        "id": 48,
+        "word": "Premonition",
+        "type": "antonyms",
+        "correct_answer": "certainty",
+        "options": [" bliss", "clumsiness", " taciturn", "certainty"],
+        "synonyms": "intuition, foreboding, presentiment",
+        "antonyms": "certainty, confidence, assurance",
+        "example": "She had a premonition of disaster."
+      },
+      {
+        "id": 49,
+        "word": "Elude",
+        "type": "antonyms",
+        "correct_answer": "catch",
+        "options": ["huge", " upright person", " authentic", "catch"],
+        "synonyms": "escape, avoid, evade",
+        "antonyms": "catch, capture, apprehend",
+        "example": "The thief eluded the police."
+      },
+      {
+        "id": 50,
+        "word": "Flutter",
+        "type": "antonyms",
+        "correct_answer": "be still",
+        "options": [" deception", " fine", " charitable", "be still"],
+        "synonyms": "flap, quiver, tremble",
+        "antonyms": "be still, be motionless, be calm",
+        "example": "The butterfly fluttered its wings."
+      },
+      {
+        "id": 51,
+        "word": "Priority",
+        "type": "synonyms",
+        "correct_answer": "importance",
+        "options": [" dreadful", " felon", " unfriendly", "importance"],
+        "synonyms": "importance, precedence, preference",
+        "antonyms": "unimportance, insignificance, irrelevance",
+        "example": "Safety is a top priority."
+      },
+      {
+        "id": 52,
+        "word": "Duplication",
+        "type": "antonyms",
+        "correct_answer": "uniqueness",
+        "options": ["concealed", "commencement", " irrelevance", "uniqueness"],
+        "synonyms": "replication, reproduction, copying",
+        "antonyms": "uniqueness, originality, individuality",
+        "example": "The duplication of data is essential for backup purposes."
+      },
+      {
+        "id": 53,
+        "word": "Dilate",
+        "type": "antonyms",
+        "correct_answer": "contract",
+        "options": ["start", " daring", " accept", "contract"],
+        "synonyms": "expand, enlarge, widen",
+        "antonyms": "contract, shrink, narrow",
+        "example": "The pupils of her eyes dilated."
+      },
+      {
+        "id": 54,
+        "word": "Obsession",
+        "type": "antonyms",
+        "correct_answer": "indifference",
+        "options": [" friendly", " known", " scare off", "indifference"],
+        "synonyms": "fixation, preoccupation, compulsion",
+        "antonyms": "indifference, disinterest, apathy",
+        "example": "He had an obsession with cleanliness."
+      },
+      {
+        "id": 55,
+        "word": "Itinerant",
+        "type": "antonyms",
+        "correct_answer": "settled",
+        "options": ["inappropriate", "unproductive", "friendly", "settled"],
+        "synonyms": "traveling, wandering, nomadic",
+        "antonyms": "settled, stationary, sedentary",
+        "example": "She was an itinerant preacher."
+      },
+      {
+        "id": 56,
+        "word": "Convict",
+        "type": "antonyms",
+        "correct_answer": "free person",
+        "options": [" narrow", " condemn", " ineptness", "free person"],
+        "synonyms": "prisoner, inmate, felon",
+        "antonyms": "free person, innocent person, acquitted person",
+        "example": "The convict was sentenced to ten years in prison."
+      },
+      {
+        "id": 57,
+        "word": "Ostentation",
+        "type": "synonyms",
+        "correct_answer": "flaunting",
+        "options": [" narrow", " offspring", " aridity", "flaunting"],
+        "synonyms": "flaunting, showiness, extravagance",
+        "antonyms": "modesty, humility, simplicity",
+        "example": "Her ostentatious lifestyle was the talk of the town."
+      },
+      {
+        "id": 58,
+        "word": "Selection",
+        "type": "synonyms",
+        "correct_answer": "choice",
+        "options": ["trivial", "dirtiness", " incapacitate", "choice"],
+        "synonyms": "choice, option, pick",
+        "antonyms": "randomness, chance, accident",
+        "example": "The selection of candidates was a difficult task."
+      },
+      {
+        "id": 59,
+        "word": "Torpid",
+        "type": "synonyms",
+        "correct_answer": "sluggish",
+        "options": [" agitated", " tremble", "cancel", "sluggish"],
+        "synonyms": "sluggish, lethargic, lazy",
+        "antonyms": "energetic, active, lively",
+        "example": "After the meal, I felt torpid."
+      },
+      {
+        "id": 60,
+        "word": "Surmount",
+        "type": "synonyms",
+        "correct_answer": "overcome",
+        "options": ["overcome", "daydream", " insignificance", "overcome"],
+        "synonyms": "overcome, conquer, triumph over",
+        "antonyms": "fail, give up, surrender",
+        "example": "She surmounted all obstacles to achieve her goal."
+      },
+      {
+        "id": 61,
+        "word": "Ablution",
+        "type": "synonyms",
+        "correct_answer": "washing",
+        "options": [" cleared", "inconsistency", "dauntless", "washing"],
+        "synonyms": "washing, cleansing, purification",
+        "antonyms": "dirtiness, filth, uncleanliness",
+        "example": "He performed his ablutions before praying."
+      },
+      {
+        "id": 62,
+        "word": "Gnome",
+        "type": "synonyms",
+        "correct_answer": "dwarf",
+        "options": [" reckless", "inappropriate", " advantageous", "dwarf"],
+        "synonyms": "dwarf, goblin, imp",
+        "antonyms": "giant, titan, colossus",
+        "example": "The gnome guarded the treasure."
+      },
+      {
+        "id": 63,
+        "word": "Command",
+        "type": "antonyms",
+        "correct_answer": "request",
+        "options": [" hatred", "energetic", "inappropriate", "request"],
+        "synonyms": "order, instruction, directive",
+        "antonyms": "request, plea, entreaty",
+        "example": "The general gave the command to attack."
+      },
+      {
+        "id": 64,
+        "word": "Transparent",
+        "type": "synonyms",
+        "correct_answer": "clear",
+        "options": [" veneration", " lively", " transient", "clear"],
+        "synonyms": "clear, translucent, see-through",
+        "antonyms": "opaque, cloudy, murky",
+        "example": "The glass was transparent."
+      },
+      {
+        "id": 65,
+        "word": "Dexterity",
+        "type": "synonyms",
+        "correct_answer": "skill",
+        "options": [" calm", "benign", " refuse", "skill"],
+        "synonyms": "skill, agility, nimbleness",
+        "antonyms": "clumsiness, awkwardness, ineptitude",
+        "example": "He had great dexterity with his hands."
+      },
+      {
+        "id": 66,
+        "word": "Capricious",
+        "type": "antonyms",
+        "correct_answer": "consistent",
+        "options": ["grow", " infrequent", "disinterest", "consistent"],
+        "synonyms": "whimsical, unpredictable, erratic",
+        "antonyms": "consistent, reliable, predictable",
+        "example": "The weather was capricious."
+      },
+      {
+        "id": 67,
+        "word": "Assertive",
+        "type": "synonyms",
+        "correct_answer": "confident",
+        "options": [" humility", " sluggish", "dirtiness", "confident"],
+        "synonyms": "confident, forceful, self-assured",
+        "antonyms": "timid, shy, submissive",
+        "example": "She was a very assertive woman."
+      },
+      {
+        "id": 68,
+        "word": "Knavish",
+        "type": "synonyms",
+        "correct_answer": "dishonest",
+        "options": [" detest", "consecutive", " fluctuating", "dishonest"],
+        "synonyms": "dishonest, roguish, tricky",
+        "antonyms": "honest, truthful, upright",
+        "example": "He was a knavish trickster."
+      },
+      {
+        "id": 69,
+        "word": "Laconic",
+        "type": "antonyms",
+        "correct_answer": "wordy",
+        "options": [" inundation", " enlarge", "reject", "wordy"],
+        "synonyms": "concise, brief, terse",
+        "antonyms": "wordy, verbose, long-winded",
+        "example": "He gave a laconic reply."
+      },
+      {
+        "id": 70,
+        "word": "Knack",
+        "type": "antonyms",
+        "correct_answer": "inability",
+        "options": [" pick", " inattentive", "kind", "inability"],
+        "synonyms": "talent, ability, aptitude",
+        "antonyms": "inability, incompetence, ineptness",
+        "example": "She had a knack for languages."
+      },
+      {
+        "id": 71,
+        "word": "Ill-Bred",
+        "type": "synonyms",
+        "correct_answer": "rude",
+        "options": ["threat", " feebleness", "blameless", "rude"],
+        "synonyms": "rude, impolite, ill-mannered",
+        "antonyms": "polite, courteous, well-mannered",
+        "example": "He was an ill-bred young man."
+      },
+      {
+        "id": 72,
+        "word": "Demented",
+        "type": "antonyms",
+        "correct_answer": "sane",
+        "options": ["huge", "faithfulness", " incompetence", "sane"],
+        "synonyms": "insane, crazy, mad",
+        "antonyms": "sane, rational, lucid",
+        "example": "She was a demented old woman."
+      },
+      {
+        "id": 73,
+        "word": "Haughty",
+        "type": "synonyms",
+        "correct_answer": "arrogant",
+        "options": [" garrulous", " covetousness", "be still", "arrogant"],
+        "synonyms": "arrogant, conceited, disdainful",
+        "antonyms": "humble, modest, unassuming",
+        "example": "He had a haughty attitude."
+      },
+      {
+        "id": 74,
+        "word": "Enliven",
+        "type": "synonyms",
+        "correct_answer": "animate",
+        "options": [" charge", " be calm", "everlasting", "animate"],
+        "synonyms": "animate, enliven, invigorate",
+        "antonyms": "bore, dull, deaden",
+        "example": "Her presence enlivened the party."
+      },
+      {
+        "id": 75,
+        "word": "Genuine",
+        "type": "synonyms",
+        "correct_answer": "real",
+        "options": ["accumulate", "vital", "free person", "real"],
+        "synonyms": "real, authentic, sincere",
+        "antonyms": "fake, artificial, counterfeit",
+        "example": "She was a genuine person."
+      },
+      {
+        "id": 76,
+        "word": "Beckoned",
+        "type": "antonyms",
+        "correct_answer": "repel",
+        "options": ["love", " friendly", "dispersion", "repel"],
+        "synonyms": "signal, gesture, motion",
+        "antonyms": "repel, drive away, scare off",
+        "example": "She beckoned to me to follow her."
+      },
+      {
+        "id": 77,
+        "word": "Accused",
+        "type": "antonyms",
+        "correct_answer": "exonerated",
+        "options": ["insufficient", "disparaging", " forceful", "exonerated"],
+        "synonyms": "charged, indicted, accused",
+        "antonyms": "exonerated, acquitted, cleared",
+        "example": "He was accused of theft."
+      },
+      {
+        "id": 78,
+        "word": "Transition",
+        "type": "synonyms",
+        "correct_answer": "change",
+        "options": ["argumentative", "safety", "smooth", "change"],
+        "synonyms": "change, shift, transformation",
+        "antonyms": "stasis, stability, permanence",
+        "example": "The country is undergoing a political transition."
+      },
+      {
+        "id": 79,
+        "word": "Decrepitude",
+        "type": "antonyms",
+        "correct_answer": "youth",
+        "options": [" satisfaction", " reliable", "faithful", "youth"],
+        "synonyms": "debility, infirmity, feebleness",
+        "antonyms": "youth, vigor, vitality",
+        "example": "The old man was in a state of decrepitude."
+      },
+      {
+        "id": 80,
+        "word": "Audacity",
+        "type": "antonyms",
+        "correct_answer": "timidity",
+        "options": ["animate", " barrier", "impatient", "timidity"],
+        "synonyms": "boldness, daring, nerve",
+        "antonyms": "timidity, cowardice, fear",
+        "example": "She had the audacity to ask for a raise."
+      },
+      {
+        "id": 81,
+        "word": "Superannuated",
+        "type": "synonyms",
+        "correct_answer": "obsolete",
+        "options": ["dishonest", " closeness", " commonplace", "obsolete"],
+        "synonyms": "obsolete, outdated, antiquated",
+        "antonyms": "modern, up-to-date, current",
+        "example": "The old computer was superannuated."
+      },
+      {
+        "id": 82,
+        "word": "Accede",
+        "type": "synonyms",
+        "correct_answer": "agree",
+        "options": [" donor", " imperfect", " lively", "agree"],
+        "synonyms": "agree, consent, assent",
+        "antonyms": "disagree, refuse, decline",
+        "example": "He acceded to her request."
+      },
+      {
+        "id": 83,
+        "word": "Alert",
+        "type": "antonyms",
+        "correct_answer": "oblivious",
+        "options": ["assess", "respect", " irrelevant", "oblivious"],
+        "synonyms": "watchful, attentive, vigilant",
+        "antonyms": "oblivious, unaware, inattentive",
+        "example": "He was always alert to danger."
+      },
+      {
+        "id": 84,
+        "word": "Obstinate",
+        "type": "antonyms",
+        "correct_answer": "yielding",
+        "options": [" remoteness", " stability", " conciliate", "yielding"],
+        "synonyms": "stubborn, persistent, determined",
+        "antonyms": "yielding, submissive, compliant",
+        "example": "She was an obstinate child."
+      },
+      {
+        "id": 85,
+        "word": "Little",
+        "type": "synonyms",
+        "correct_answer": "small",
+        "options": [" courteous", "courageous", "betrayal", "small"],
+        "synonyms": "small, tiny, miniature",
+        "antonyms": "large, big, great",
+        "example": "The little dog was very cute."
+      },
+      {
+        "id": 86,
+        "word": "Yardstick",
+        "type": "synonyms",
+        "correct_answer": "standard",
+        "options": ["beneficial", " bad-tempered", " courteous", "standard"],
+        "synonyms": "standard, criterion, measure",
+        "antonyms": "unimportant, insignificant, irrelevant",
+        "example": "The test was a yardstick of the students' knowledge."
+      },
+      {
+        "id": 87,
+        "word": "Toxic",
+        "type": "synonyms",
+        "correct_answer": "poisonous",
+        "options": [" stride", "hide", "start", "poisonous"],
+        "synonyms": "poisonous, harmful, dangerous",
+        "antonyms": "harmless, innocent, benign",
+        "example": "The substance was toxic."
+      },
+      {
+        "id": 88,
+        "word": "Regress",
+        "type": "synonyms",
+        "correct_answer": "revert",
+        "options": [" sluggish", " uniform", " unchanging", "revert"],
+        "synonyms": "revert, decline, deteriorate",
+        "antonyms": "progress, advance, improve",
+        "example": "His condition regressed."
+      },
+      {
+        "id": 89,
+        "word": "Sombre",
+        "type": "synonyms",
+        "correct_answer": "gloomy",
+        "options": [" grumbling", " pleasant", " give up", "gloomy"],
+        "synonyms": "gloomy, somber, dismal",
+        "antonyms": "bright, cheerful, joyous",
+        "example": "The mood was somber after the funeral."
+      },
+      {
+        "id": 90,
+        "word": "Rare",
+        "type": "antonyms",
+        "correct_answer": "common",
+        "options": [" oppose", " doubting", "betrayal", "common"],
+        "synonyms": "uncommon, infrequent, scarce",
+        "antonyms": "common, frequent, ordinary",
+        "example": "It is a rare disease."
+      },
+      {
+        "id": 91,
+        "word": "Hurdle",
+        "type": "synonyms",
+        "correct_answer": "obstacle",
+        "options": ["certainty", "majesty", " benign", "obstacle"],
+        "synonyms": "obstacle, difficulty, barrier",
+        "antonyms": "help, assistance, support",
+        "example": "He had to overcome many hurdles to achieve his goal."
+      },
+      {
+        "id": 92,
+        "word": "Decimated",
+        "type": "antonyms",
+        "correct_answer": "increase",
+        "options": ["reflection", "benefactor", " keen", "increase"],
+        "synonyms": "destroy, devastate, ruin",
+        "antonyms": "increase, grow, expand",
+        "example": "The disease decimated the population."
+      },
+      {
+        "id": 93,
+        "word": "August",
+        "type": "antonyms",
+        "correct_answer": "humble",
+        "options": ["ritual", "harsh", " cloudy", "humble"],
+        "synonyms": "grand, majestic, imposing",
+        "antonyms": "humble, modest, unassuming",
+        "example": "The cathedral was an august sight."
+      },
+      {
+        "id": 94,
+        "word": "Avarice",
+        "type": "antonyms",
+        "correct_answer": "generosity",
+        "options": [" get", "appropriate", "bold", "generosity"],
+        "synonyms": "greed, avarice, covetousness",
+        "antonyms": "generosity, charity, philanthropy",
+        "example": "His avarice led to his downfall."
+      },
+      {
+        "id": 95,
+        "word": "Slither",
+        "type": "antonyms",
+        "correct_answer": "walk",
+        "options": [" satisfaction", " ruin", "pretty", "walk"],
+        "synonyms": "wriggle, squirm, crawl",
+        "antonyms": "walk, run, stride",
+        "example": "The snake slithered through the grass."
+      },
+      {
+        "id": 96,
+        "word": "Freelance",
+        "type": "antonyms",
+        "correct_answer": "employed",
+        "options": ["gentle", " proclaimed", "unproductive", "employed"],
+        "synonyms": "independent, self-employed, free-lance",
+        "antonyms": "employed, salaried, staff",
+        "example": "She was a freelance writer."
+      },
+      {
+        "id": 97,
+        "word": "Impious",
+        "type": "synonyms",
+        "correct_answer": "ungodly",
+        "options": [" plea", " fleeting", " presentiment", "ungodly"],
+        "synonyms": "ungodly, irreverent, profane",
+        "antonyms": "pious, devout, religious",
+        "example": "His impious remarks offended many people."
+      },
+      {
+        "id": 98,
+        "word": "Scorn",
+        "type": "synonyms",
+        "correct_answer": "contempt",
+        "options": ["harmony", " empower", " condemn", "contempt"],
+        "synonyms": "contempt, disdain, scorn",
+        "antonyms": "respect, admiration, reverence",
+        "example": "She scorned his attempts at humor."
+      },
+      {
+        "id": 99,
+        "word": "Apposite",
+        "type": "antonyms",
+        "correct_answer": "inappropriate",
+        "options": [" malicious", " majestic", " nerve", "inappropriate"],
+        "synonyms": "appropriate, suitable, relevant",
+        "antonyms": "inappropriate, unsuitable, irrelevant",
+        "example": "His comment was entirely apposite."
+      },
+      {
+        "id": 100,
+        "word": "Dulcet",
+        "type": "antonyms",
+        "correct_answer": "harsh",
+        "options": [" submissive", " itinerant", "crucial", "harsh"],
+        "synonyms": "sweet, melodious, harmonious",
+        "antonyms": "harsh, discordant, unpleasant",
+        "example": "The dulcet sound of the flute filled the air."
+      },
+      {
+        "id": 101,
+        "word": "Indictment",
+        "type": "synonyms",
+        "correct_answer": "accusation",
+        "options": ["trivial", " sensitive", " incompetence", "accusation"],
+        "synonyms": "accusation, charge, citation",
+        "antonyms": "exoneration, acquittal, clearance",
+        "example": "He was indicted on charges of fraud."
+      },
+      {
+        "id": 102,
+        "word": "Invariable",
+        "type": "synonyms",
+        "correct_answer": "constant",
+        "options": [" grumbling", "revoke", " conquer", "constant"],
+        "synonyms": "constant, unchanging, uniform",
+        "antonyms": "variable, changeable, fluctuating",
+        "example": "The laws of physics are invariable."
+      },
+      {
+        "id": 103,
+        "word": "Stubborn",
+        "type": "antonyms",
+        "correct_answer": "yielding",
+        "options": [" deception", " triumph", "insufficient", "yielding"],
+        "synonyms": "obstinate, persistent, determined",
+        "antonyms": "yielding, submissive, compliant",
+        "example": "She was a stubborn child."
+      },
+      {
+        "id": 104,
+        "word": "Colossal",
+        "type": "antonyms",
+        "correct_answer": "tiny",
+        "options": ["stasis", " permitted", "ugly", "tiny"],
+        "synonyms": "huge, massive, enormous",
+        "antonyms": "tiny, small, miniature",
+        "example": "The colossal statue dominated the skyline."
+      },
+      {
+        "id": 105,
+        "word": "Detrimental",
+        "type": "antonyms",
+        "correct_answer": "beneficial",
+        "options": ["argue against", "yielding", "assembly", "beneficial"],
+        "synonyms": "harmful, damaging, detrimental",
+        "antonyms": "beneficial, helpful, advantageous",
+        "example": "Smoking is detrimental to your health."
+      },
+      {
+        "id": 106,
+        "word": "Heralded",
+        "type": "antonyms",
+        "correct_answer": "concealed",
+        "options": ["dishonest", " vitality", " reverence", "concealed"],
+        "synonyms": "announced, publicized, proclaimed",
+        "antonyms": "concealed, hidden, secret",
+        "example": "The arrival of the king was heralded by a trumpet fanfare."
+      },
+      {
+        "id": 107,
+        "word": "Incessantly",
+        "type": "antonyms",
+        "correct_answer": "occasionally",
+        "options": [" drawback", " frugal", " inadequate", "occasionally"],
+        "synonyms": "continuously, constantly, endlessly",
+        "antonyms": "occasionally, intermittently, sporadically",
+        "example": "The rain fell incessantly."
+      },
+      {
+        "id": 108,
+        "word": "Veracity",
+        "type": "synonyms",
+        "correct_answer": "truthfulness",
+        "options": [" quiver", "enjoy", " acquit", "truthfulness"],
+        "synonyms": "truthfulness, honesty, integrity",
+        "antonyms": "falsehood, dishonesty, deception",
+        "example": "He doubted the veracity of her story."
+      },
+      {
+        "id": 109,
+        "word": "Accoutrements",
+        "type": "antonyms",
+        "correct_answer": "disarmament",
+        "options": [" scare off", " instruction", " ineptness", "disarmament"],
+        "synonyms": "equipment, gear, paraphernalia",
+        "antonyms": "disarmament, stripping, bareness",
+        "example": "The soldier was laden with accoutrements."
+      },
+      {
+        "id": 110,
+        "word": "Obscene",
+        "type": "synonyms",
+        "correct_answer": "offensive",
+        "options": [" deluge", "huge", " stinginess", "offensive"],
+        "synonyms": "offensive, indecent, vulgar",
+        "antonyms": "decent, modest, respectable",
+        "example": "His language was obscene."
+      },
+      {
+        "id": 111,
+        "word": "Genuine",
+        "type": "synonyms",
+        "correct_answer": "real",
+        "options": [" acquitted", " commonplace", " submissive", "real"],
+        "synonyms": "real, authentic, sincere",
+        "antonyms": "fake, artificial, counterfeit",
+        "example": "She was a genuine person."
+      },
+      {
+        "id": 112,
+        "word": "Eternal",
+        "type": "synonyms",
+        "correct_answer": "everlasting",
+        "options": [" uncertain", " obtuse", " scorn", "everlasting"],
+        "synonyms": "everlasting, endless, perpetual",
+        "antonyms": "temporary, fleeting, transient",
+        "example": "Eternal love."
+      },
+      {
+        "id": 113,
+        "word": "Dubious",
+        "type": "antonyms",
+        "correct_answer": "certain",
+        "options": [" levy", "unimportance", "huge", "certain"],
+        "synonyms": "doubtful, uncertain, questionable",
+        "antonyms": "certain, sure, confident",
+        "example": "The origin of the legend is dubious."
+      },
+      {
+        "id": 114,
+        "word": "Antipathy",
+        "type": "synonyms",
+        "correct_answer": "dislike",
+        "options": ["mild", " sincere", " scorn", "dislike"],
+        "synonyms": "dislike, hatred, aversion",
+        "antonyms": "liking, fondness, affection",
+        "example": "She felt a strong antipathy towards him."
+      },
+      {
+        "id": 115,
+        "word": "Rescind",
+        "type": "synonyms",
+        "correct_answer": "cancel",
+        "options": ["excellent", "enormous", " agility", "cancel"],
+        "synonyms": "cancel, revoke, repeal",
+        "antonyms": "establish, enact, institute",
+        "example": "The government rescinded the order."
+      },
+      {
+        "id": 116,
+        "word": "Meticulous",
+        "type": "antonyms",
+        "correct_answer": "careless",
+        "options": [" fondness", "importance", " imprudent", "careless"],
+        "synonyms": "careful, precise, thorough",
+        "antonyms": "careless, sloppy, negligent",
+        "example": "She was a meticulous worker."
+      },
+      {
+        "id": 117,
+        "word": "Acronym",
+        "type": "synonyms",
+        "correct_answer": "abbreviation",
+        "options": ["enormous", " trivial", " criterion", "abbreviation"],
+        "synonyms": "abbreviation, acronym, initialism",
+        "antonyms": "expansion, amplification, enlargement",
+        "example": "NASA is an acronym for National Aeronautics and Space Administration."
+      },
+      {
+        "id": 118,
+        "word": "Indignation",
+        "type": "antonyms",
+        "correct_answer": "pleasure",
+        "options": [" serial", " hazardous", " paraphernalia", "pleasure"],
+        "synonyms": "anger, resentment, outrage",
+        "antonyms": "pleasure, satisfaction, contentment",
+        "example": "She felt indignation at the injustice."
+      },
+      {
+        "id": 119,
+        "word": "Congregation",
+        "type": "antonyms",
+        "correct_answer": "dispersion",
+        "options": ["deny", " terse", " inundation", "dispersion"],
+        "synonyms": "assembly, gathering, meeting",
+        "antonyms": "dispersion, scattering, separation",
+        "example": "The congregation sang hymns."
+      },
+      {
+        "id": 120,
+        "word": "Incapacitate",
+        "type": "synonyms",
+        "correct_answer": "disable",
+        "options": [" filth", " innocent", "defeat", "disable"],
+        "synonyms": "disable, cripple, incapacitate",
+        "antonyms": "enable, empower, strengthen",
+        "example": "The injury incapacitated him."
+      },
+      {
+        "id": 121,
+        "word": "Exotic",
+        "type": "antonyms",
+        "correct_answer": "familiar",
+        "options": [" indulge", "clumsiness", " decline", "familiar"],
+        "synonyms": "foreign, strange, unusual",
+        "antonyms": "familiar, ordinary, commonplace",
+        "example": "She wore an exotic dress."
+      },
+      {
+        "id": 122,
+        "word": "Philanthropist",
+        "type": "synonyms",
+        "correct_answer": "benefactor",
+        "options": [" flattering", " reject", "rogue", "benefactor"],
+        "synonyms": "benefactor, patron, donor",
+        "antonyms": "miser, skinflint, niggard",
+        "example": "He was a wealthy philanthropist."
+      },
+      {
+        "id": 123,
+        "word": "Decamp",
+        "type": "synonyms",
+        "correct_answer": "leave",
+        "options": [" conquer", " savor", "arrogant", "leave"],
+        "synonyms": "leave, depart, go",
+        "antonyms": "stay, remain, linger",
+        "example": "They decamped in the middle of the night."
+      },
+      {
+        "id": 124,
+        "word": "Salient",
+        "type": "antonyms",
+        "correct_answer": "insignificant",
+        "options": [" charity", " exonerate", " scarce", "insignificant"],
+        "synonyms": "prominent, conspicuous, striking",
+        "antonyms": "insignificant, unimportant, trivial",
+        "example": "The salient features of the plan were outlined in the report."
+      },
+      {
+        "id": 125,
+        "word": "Abysmal",
+        "type": "antonyms",
+        "correct_answer": "excellent",
+        "options": ["show off", "sane", " economical", "excellent"],
+        "synonyms": "terrible, awful, dreadful",
+        "antonyms": "excellent, wonderful, superb",
+        "example": "The quality of the food was abysmal."
+      },
+      {
+        "id": 126,
+        "word": "Conservation",
+        "type": "antonyms",
+        "correct_answer": "destruction",
+        "options": ["bold", " progenitor", "dispersion", "destruction"],
+        "synonyms": "preservation, protection, safeguarding",
+        "antonyms": "destruction, devastation, ruin",
+        "example": "Conservation efforts are essential to protect the environment."
+      },
+      {
+        "id": 127,
+        "word": "Flair",
+        "type": "antonyms",
+        "correct_answer": "inability",
+        "options": [" hidden", "offensive", "forgiving", "inability"],
+        "synonyms": "talent, ability, aptitude",
+        "antonyms": "inability, incompetence, ineptness",
+        "example": "She had a flair for languages."
+      },
+      {
+        "id": 128,
+        "word": "Illicit",
+        "type": "antonyms",
+        "correct_answer": "legal",
+        "options": ["friendly", " itinerant", "thrifty", "legal"],
+        "synonyms": "illegal, unlawful, forbidden",
+        "antonyms": "legal, lawful, permitted",
+        "example": "He was involved in illicit activities."
+      },
+      {
+        "id": 129,
+        "word": "Coarse",
+        "type": "synonyms",
+        "correct_answer": "rough",
+        "options": ["timid", " cheerful", " ceremonial", "rough"],
+        "synonyms": "rough, rough-textured, gritty",
+        "antonyms": "smooth, fine, delicate",
+        "example": "The fabric was coarse."
+      },
+      {
+        "id": 130,
+        "word": "Impost",
+        "type": "synonyms",
+        "correct_answer": "tax",
+        "options": [" patron", "misery", " innocent person", "tax"],
+        "synonyms": "tax, levy, duty",
+        "antonyms": "subsidy, grant, allowance",
+        "example": "The new impost caused a public outcry."
+      },
+      {
+        "id": 131,
+        "word": "Prodigal",
+        "type": "antonyms",
+        "correct_answer": "thrifty",
+        "options": [" pleasant", " impeccable", "expand", "thrifty"],
+        "synonyms": "wasteful, extravagant, lavish",
+        "antonyms": "thrifty, frugal, economical",
+        "example": "He was a prodigal son."
+      },
+      {
+        "id": 132,
+        "word": "Recipients",
+        "type": "synonyms",
+        "correct_answer": "receiver",
+        "options": [" antagonize", " inattentive", " accept", "receiver"],
+        "synonyms": "receiver, recipient, addressee",
+        "antonyms": "sender, giver, donor",
+        "example": "The recipients of the award were honored."
+      },
+      {
+        "id": 133,
+        "word": "Forego",
+        "type": "antonyms",
+        "correct_answer": "obtain",
+        "options": ["rescind", "clear", " loyal", "obtain"],
+        "synonyms": "give up, forgo, renounce",
+        "antonyms": "obtain, acquire, get",
+        "example": "She had to forego her vacation to finish the project."
+      },
+      {
+        "id": 134,
+        "word": "Rout",
+        "type": "antonyms",
+        "correct_answer": "victory",
+        "options": [" option", " levy", "dispute", "victory"],
+        "synonyms": "defeat, overthrow, rout",
+        "antonyms": "victory, triumph, success",
+        "example": "The army was put to rout."
+      },
+      {
+        "id": 135,
+        "word": "Frontier",
+        "type": "synonyms",
+        "correct_answer": "border",
+        "options": ["sweet", "excellent", " advantage", "border"],
+        "synonyms": "border, boundary, frontier",
+        "antonyms": "interior, inland, central",
+        "example": "They lived on the frontier."
+      },
+      {
+        "id": 136,
+        "word": "Knave",
+        "type": "synonyms",
+        "correct_answer": "rogue",
+        "options": [" benign", "simplify", " conceal", "rogue"],
+        "synonyms": "rogue, rascal, villain",
+        "antonyms": "honest person, upright person, virtuous person",
+        "example": "He was a knavish trickster."
+      },
+      {
+        "id": 137,
+        "word": "Felicity",
+        "type": "synonyms",
+        "correct_answer": "happiness",
+        "options": [" foreboding", " forbidden", " gesture", "happiness"],
+        "synonyms": "happiness, joy, bliss",
+        "antonyms": "misery, unhappiness, sorrow",
+        "example": "They lived in perfect felicity."
+      },
+      {
+        "id": 138,
+        "word": "Irreprochable",
+        "type": "antonyms",
+        "correct_answer": "blameworthy",
+        "options": ["lethargic", "minority", " fondness", "blameworthy"],
+        "synonyms": "blameless, faultless, impeccable",
+        "antonyms": "blameworthy, faulty, imperfect",
+        "example": "Her behavior was irreproachable."
+      },
+      {
+        "id": 139,
+        "word": "Coddle",
+        "type": "synonyms",
+        "correct_answer": "pamper",
+        "options": [" outrage", " initialism", " purposely", "pamper"],
+        "synonyms": "pamper, indulge, spoil",
+        "antonyms": "neglect, ignore, disregard",
+        "example": "She coddled her children."
+      },
+      {
+        "id": 140,
+        "word": "Prophylactic",
+        "type": "antonyms",
+        "correct_answer": "harmful",
+        "options": [" expand", " changeable", " polite", "harmful"],
+        "synonyms": "preventive, prophylactic, precautionary",
+        "antonyms": "harmful, detrimental, injurious",
+        "example": "He took prophylactic medication."
+      },
+      {
+        "id": 141,
+        "word": "Ostracise",
+        "type": "synonyms",
+        "correct_answer": "exclude",
+        "options": ["simultaneous", "bore", " rescind", "exclude"],
+        "synonyms": "exclude, shun, boycott",
+        "antonyms": "include, accept, welcome",
+        "example": "He was ostracized by his classmates."
+      },
+      {
+        "id": 142,
+        "word": "Debacle",
+        "type": "antonyms",
+        "correct_answer": "success",
+        "options": [" fear", "announced", " scorn", "success"],
+        "synonyms": "disaster, fiasco, catastrophe",
+        "antonyms": "success, triumph, victory",
+        "example": "The project was a complete debacle."
+      },
+      {
+        "id": 143,
+        "word": "Trite",
+        "type": "antonyms",
+        "correct_answer": "original",
+        "options": [" precautionary", "hate", " permanence", "original"],
+        "synonyms": "commonplace, hackneyed, overused",
+        "antonyms": "original, fresh, new",
+        "example": "His jokes were trite."
+      },
+      {
+        "id": 144,
+        "word": "Derision",
+        "type": "synonyms",
+        "correct_answer": "ridicule",
+        "options": [" incredulous", " pleasant", "assess", "ridicule"],
+        "synonyms": "ridicule, mockery, scorn",
+        "antonyms": "respect, admiration, reverence",
+        "example": "He was subjected to derision from his classmates."
+      },
+      {
+        "id": 145,
+        "word": "Onus",
+        "type": "antonyms",
+        "correct_answer": "relief",
+        "options": [" antiquated", " empower", "grow", "relief"],
+        "synonyms": "burden, responsibility, obligation",
+        "antonyms": "relief, freedom, exemption",
+        "example": "The onus is on you to prove your innocence."
+      },
+      {
+        "id": 146,
+        "word": "Cantankerous",
+        "type": "antonyms",
+        "correct_answer": "agreeable",
+        "options": [" integrity", "opaque", " ruin", "agreeable"],
+        "synonyms": "argumentative, quarrelsome, difficult",
+        "antonyms": "agreeable, pleasant, easygoing",
+        "example": "He was a cantankerous old man."
+      },
+      {
+        "id": 147,
+        "word": "Luxuriant",
+        "type": "synonyms",
+        "correct_answer": "lush",
+        "options": ["establish", " progenitor", " improve", "lush"],
+        "synonyms": "lush, abundant, plentiful",
+        "antonyms": "sparse, meager, scanty",
+        "example": "The garden was luxuriant."
+      },
+      {
+        "id": 148,
+        "word": "Sufficient",
+        "type": "synonyms",
+        "correct_answer": "enough",
+        "options": [" estimate", " hackneyed", " keen", "enough"],
+        "synonyms": "enough, adequate, sufficient",
+        "antonyms": "insufficient, inadequate, deficient",
+        "example": "The food was sufficient for everyone."
+      },
+      {
+        "id": 149,
+        "word": "Meek",
+        "type": "antonyms",
+        "correct_answer": "bold",
+        "options": [" garrulous", " charity", " assurance", "bold"],
+        "synonyms": "gentle, mild, humble",
+        "antonyms": "bold, assertive, aggressive",
+        "example": "He was a meek and gentle man."
+      },
+      {
+        "id": 150,
+        "word": "Embrace",
+        "type": "antonyms",
+        "correct_answer": "reject",
+        "options": ["notoriety", " harmless", " commend", "reject"],
+        "synonyms": "accept, welcome, welcome",
+        "antonyms": "reject, refuse, decline",
+        "example": "She embraced the new challenge."
+      },
+      {
+        "id": 151,
+        "word": "Ancestors",
+        "type": "antonyms",
+        "correct_answer": "descendant",
+        "options": ["miser", " surrender", " fact", "descendant"],
+        "synonyms": "forefather, forebear, progenitor",
+        "antonyms": "descendant, offspring, progeny",
+        "example": "His ancestors were from Ireland."
+      },
+      {
+        "id": 152,
+        "word": "Benevolent",
+        "type": "synonyms",
+        "correct_answer": "kind",
+        "options": [" mockery", "respect", "vengeful", "kind"],
+        "synonyms": "kind, generous, charitable",
+        "antonyms": "cruel, mean, stingy",
+        "example": "She was a benevolent woman."
+      },
+      {
+        "id": 153,
+        "word": "Censure",
+        "type": "synonyms",
+        "correct_answer": "criticize",
+        "options": ["bold", " lively", " separation", "criticize"],
+        "synonyms": "criticize, condemn, reprimand",
+        "antonyms": "praise, commend, applaud",
+        "example": "The senator was censured for his unethical behavior."
+      },
+      {
+        "id": 154,
+        "word": "Confidential",
+        "type": "synonyms",
+        "correct_answer": "secret",
+        "options": [" grow", " accused", "obscure", "secret"],
+        "synonyms": "secret, private, confidential",
+        "antonyms": "public, open, known",
+        "example": "The information is confidential."
+      },
+      {
+        "id": 155,
+        "word": "Dangerous",
+        "type": "synonyms",
+        "correct_answer": "dangerous",
+        "options": [" refuse", " admiration", " protection", "dangerous"],
+        "synonyms": "dangerous, hazardous, perilous",
+        "antonyms": "safe, harmless, secure",
+        "example": "It was a dangerous situation."
+      },
+      {
+        "id": 156,
+        "word": "Obstinate",
+        "type": "synonyms",
+        "correct_answer": "stubborn",
+        "options": ["ungodly", " courteous", " confidential", "stubborn"],
+        "synonyms": "stubborn, persistent, determined",
+        "antonyms": "yielding, submissive, compliant",
+        "example": "She was an obstinate child."
+      },
+      {
+        "id": 157,
+        "word": "Illicit",
+        "type": "synonyms",
+        "correct_answer": "illegal",
+        "options": [" disdainful", " injurious", " devastation", "illegal"],
+        "synonyms": "illegal, unlawful, forbidden",
+        "antonyms": "legal, lawful, permitted",
+        "example": "He was involved in illicit activities."
+      },
+      {
+        "id": 158,
+        "word": "Irascible",
+        "type": "antonyms",
+        "correct_answer": "patient",
+        "options": ["agree", "beneficial", "boldness", "patient"],
+        "synonyms": "irritable, grumpy, bad-tempered",
+        "antonyms": "patient, calm, easygoing",
+        "example": "He was an irascible old man."
+      },
+      {
+        "id": 159,
+        "word": "Promiscuous",
+        "type": "synonyms",
+        "correct_answer": "promiscuous",
+        "options": [" precautionary", " everyday", "request", "promiscuous"],
+        "synonyms": "promiscuous, indiscriminate, indiscriminate",
+        "antonyms": "faithful, loyal, monogamous",
+        "example": "Her promiscuous lifestyle was well-known."
+      },
+      {
+        "id": 160,
+        "word": "Propinquity",
+        "type": "antonyms",
+        "correct_answer": "distance",
+        "options": ["repulsive", " empower", "success", "distance"],
+        "synonyms": "nearness, proximity, closeness",
+        "antonyms": "distance, remoteness, farness",
+        "example": "The propinquity of their homes made it easy for them to see each other."
+      },
+      {
+        "id": 161,
+        "word": "Artful",
+        "type": "antonyms",
+        "correct_answer": "foolish",
+        "options": [" acquittal", "careless", " generous", "foolish"],
+        "synonyms": "clever, cunning, crafty",
+        "antonyms": "foolish, naive, gullible",
+        "example": "He was an artful dodger."
+      },
+      {
+        "id": 162,
+        "word": "Fatuous",
+        "type": "antonyms",
+        "correct_answer": "wise",
+        "options": ["huge", " hazardous", "defiance", "wise"],
+        "synonyms": "silly, foolish, absurd",
+        "antonyms": "wise, intelligent, sensible",
+        "example": "His comments were fatuous."
+      },
+      {
+        "id": 163,
+        "word": "Perquisite",
+        "type": "antonyms",
+        "correct_answer": "disadvantage",
+        "options": [" stability", " enlargement", " joyous", "disadvantage"],
+        "synonyms": "benefit, advantage, perk",
+        "antonyms": "disadvantage, drawback, detriment",
+        "example": "A company car was a perquisite of the job."
+      },
+      {
+        "id": 164,
+        "word": "Execrate",
+        "type": "synonyms",
+        "correct_answer": "hate",
+        "options": ["energetic", "sparse", " unpleasant", "hate"],
+        "synonyms": "hate, detest, abhor",
+        "antonyms": "love, adore, cherish",
+        "example": "He execrated his enemies."
+      },
+      {
+        "id": 165,
+        "word": "Spirited",
+        "type": "antonyms",
+        "correct_answer": "lethargic",
+        "options": [" surrender", " disinterest", " fantasy", "lethargic"],
+        "synonyms": "energetic, enthusiastic, lively",
+        "antonyms": "lethargic, sluggish, lazy",
+        "example": "She was a spirited young woman."
+      },
+      {
+        "id": 166,
+        "word": "Virulent",
+        "type": "synonyms",
+        "correct_answer": "poisonous",
+        "options": [" antagonize", " see-through", " freedom", "poisonous"],
+        "synonyms": "poisonous, harmful, deadly",
+        "antonyms": "harmless, innocent, benign",
+        "example": "The virus was virulent."
+      },
+      {
+        "id": 167,
+        "word": "Controvert",
+        "type": "synonyms",
+        "correct_answer": "argue against",
+        "options": ["unproductive", " courteous", " lawful", "argue against"],
+        "synonyms": "argue against, dispute, contest",
+        "antonyms": "agree, accept, assent",
+        "example": "He controverted the theory."
+      },
+      {
+        "id": 168,
+        "word": "Reverie",
+        "type": "antonyms",
+        "correct_answer": "reality",
+        "options": ["certainty", "student", "yielding", "reality"],
+        "synonyms": "daydream, fantasy, reverie",
+        "antonyms": "reality, actuality, fact",
+        "example": "She was lost in reverie."
+      },
+      {
+        "id": 169,
+        "word": "Perilous",
+        "type": "antonyms",
+        "correct_answer": "safe",
+        "options": ["decent", " sedentary", " savor", "safe"],
+        "synonyms": "dangerous, hazardous, risky",
+        "antonyms": "safe, harmless, secure",
+        "example": "It was a perilous journey."
+      },
+      {
+        "id": 170,
+        "word": "Audacious",
+        "type": "antonyms",
+        "correct_answer": "timid",
+        "options": ["escape", " imperfect", " cautious", "timid"],
+        "synonyms": "bold, daring, brave",
+        "antonyms": "timid, cowardly, fearful",
+        "example": "She had the audacity to ask for a raise."
+      },
+      {
+        "id": 171,
+        "word": "Querulous",
+        "type": "antonyms",
+        "correct_answer": "content",
+        "options": [" diminish", "constant", " determined", "content"],
+        "synonyms": "complaining, grumbling, whining",
+        "antonyms": "content, satisfied, pleased",
+        "example": "She was a querulous old woman."
+      },
+      {
+        "id": 172,
+        "word": "Poignant",
+        "type": "antonyms",
+        "correct_answer": "unmoving",
+        "options": ["faithful", " detest", " extravagant", "unmoving"],
+        "synonyms": "moving, touching, affecting",
+        "antonyms": "unmoving, indifferent, unaffected",
+        "example": "It was a poignant moment."
+      },
+      {
+        "id": 173,
+        "word": "Accrue",
+        "type": "synonyms",
+        "correct_answer": "accumulate",
+        "options": ["liking", " lawful", " misconduct", "accumulate"],
+        "synonyms": "accumulate, increase, grow",
+        "antonyms": "decrease, diminish, dwindle",
+        "example": "Interest on the savings account accrued over time."
+      },
+      {
+        "id": 174,
+        "word": "Genial",
+        "type": "synonyms",
+        "correct_answer": "friendly",
+        "options": ["revert", "bold", " assurance", "friendly"],
+        "synonyms": "friendly, cheerful, pleasant",
+        "antonyms": "unfriendly, hostile, unfriendly",
+        "example": "He had a genial smile."
+      },
+      {
+        "id": 175,
+        "word": "Inclement",
+        "type": "antonyms",
+        "correct_answer": "mild",
+        "options": ["request", " bad-tempered", "reject", "mild"],
+        "synonyms": "harsh, severe, inclement",
+        "antonyms": "mild, pleasant, agreeable",
+        "example": "The weather was inclement."
+      },
+      {
+        "id": 176,
+        "word": "Vindictive",
+        "type": "synonyms",
+        "correct_answer": "vengeful",
+        "options": ["disaster", " deception", "dispatcher", "vengeful"],
+        "synonyms": "vengeful, spiteful, malicious",
+        "antonyms": "forgiving, merciful, lenient",
+        "example": "She was a vindictive woman."
+      },
+      {
+        "id": 177,
+        "word": "Loquacious",
+        "type": "antonyms",
+        "correct_answer": "silent",
+        "options": [" scarce", "request", " reprimand", "silent"],
+        "synonyms": "talkative, chatty, garrulous",
+        "antonyms": "silent, quiet, taciturn",
+        "example": "He was a loquacious man."
+      },
+      {
+        "id": 178,
+        "word": "Perspicuous",
+        "type": "synonyms",
+        "correct_answer": "clear",
+        "options": [" apathy", "ask", "delightful", "clear"],
+        "synonyms": "clear, lucid, plain",
+        "antonyms": "obscure, unclear, ambiguous",
+        "example": "His explanation was perspicuous."
+      },
+      {
+        "id": 179,
+        "word": "Prodigal",
+        "type": "antonyms",
+        "correct_answer": "thrifty",
+        "options": [" cheerful", "commendation", " innocent person", "thrifty"],
+        "synonyms": "wasteful, extravagant, lavish",
+        "antonyms": "thrifty, frugal, economical",
+        "example": "He was a prodigal son."
+      },
+      {
+        "id": 180,
+        "word": "Intrepid",
+        "type": "antonyms",
+        "correct_answer": "timid",
+        "options": [" adorn", "real", "victory", "timid"],
+        "synonyms": "brave, courageous, dauntless",
+        "antonyms": "timid, cowardly, fearful",
+        "example": "The intrepid explorer ventured into the uncharted wilderness."
+      },
+      {
+        "id": 181,
+        "word": "Infamy",
+        "type": "synonyms",
+        "correct_answer": "notoriety",
+        "options": ["liking", " acquit", " bad-tempered", "notoriety"],
+        "synonyms": "notoriety, disgrace, dishonor",
+        "antonyms": "fame, renown, glory",
+        "example": "He was known for his infamy."
+      },
+      {
+        "id": 182,
+        "word": "Barren",
+        "type": "antonyms",
+        "correct_answer": "fertile",
+        "options": ["disable", " constantly", "exonerated", "fertile"],
+        "synonyms": "unproductive, barren, sterile",
+        "antonyms": "fertile, productive, fruitful",
+        "example": "The land was barren."
+      },
+      {
+        "id": 183,
+        "word": "Preponderance",
+        "type": "antonyms",
+        "correct_answer": "minority",
+        "options": [" protection", "opaque", " sincere", "minority"],
+        "synonyms": "majority, preponderance, predominance",
+        "antonyms": "minority, small number, few",
+        "example": "The preponderance of evidence was against him."
+      },
+      {
+        "id": 184,
+        "word": "Deluge",
+        "type": "antonyms",
+        "correct_answer": "drought",
+        "options": [" endless", "quarrel", "offensive", "drought"],
+        "synonyms": "flood, deluge, inundation",
+        "antonyms": "drought, dryness, aridity",
+        "example": "The heavy rain caused a deluge."
+      },
+      {
+        "id": 185,
+        "word": "Appraise",
+        "type": "antonyms",
+        "correct_answer": "undervalue",
+        "options": [" sporadically", "tiny", " up-to-date", "undervalue"],
+        "synonyms": "assess, evaluate, estimate",
+        "antonyms": "undervalue, underestimate, belittle",
+        "example": "The appraiser valued the house at $200,000."
+      },
+      {
+        "id": 186,
+        "word": "Indict",
+        "type": "synonyms",
+        "correct_answer": "accuse",
+        "options": ["offensive", "dirtiness", " indulge", "accuse"],
+        "synonyms": "accuse, charge, cite",
+        "antonyms": "exonerate, acquit, clear",
+        "example": "He was indicted on charges of fraud."
+      },
+      {
+        "id": 187,
+        "word": "Lucidity",
+        "type": "synonyms",
+        "correct_answer": "clarity",
+        "options": ["wasteful", " uncertain", "wandering", "clarity"],
+        "synonyms": "clarity, clearness, distinctness",
+        "antonyms": "obscurity, vagueness, ambiguity",
+        "example": "Her explanation was lucid."
+      },
+      {
+        "id": 188,
+        "word": "Deliberately",
+        "type": "synonyms",
+        "correct_answer": "intentionally",
+        "options": [" relish", "love", "animate", "intentionally"],
+        "synonyms": "intentionally, purposely, deliberately",
+        "antonyms": "accidentally, unintentionally, unknowingly",
+        "example": "He deliberately ignored her."
+      },
+      {
+        "id": 189,
+        "word": "Stringent",
+        "type": "synonyms",
+        "correct_answer": "strict",
+        "options": ["tiny", "doubtful", "harsh", "strict"],
+        "synonyms": "strict, severe, rigorous",
+        "antonyms": "lenient, easygoing, lax",
+        "example": "The rules were stringent."
+      },
+      {
+        "id": 190,
+        "word": "Behaviour",
+        "type": "synonyms",
+        "correct_answer": "behavior",
+        "options": ["wise", " extravagant", "distance", "behavior"],
+        "synonyms": "behavior, conduct, demeanor",
+        "antonyms": "misbehavior, misconduct, delinquency",
+        "example": "His behavior was unacceptable."
+      },
+      {
+        "id": 191,
+        "word": "Flaunt",
+        "type": "antonyms",
+        "correct_answer": "hide",
+        "options": ["sane", "forefather", " humble", "hide"],
+        "synonyms": "show off, display, exhibit",
+        "antonyms": "hide, conceal, disguise",
+        "example": "She flaunted her wealth."
+      },
+      {
+        "id": 192,
+        "word": "Surmount",
+        "type": "synonyms",
+        "correct_answer": "overcome",
+        "options": ["brave", " admiration", " insignificant", "overcome"],
+        "synonyms": "overcome, conquer, triumph over",
+        "antonyms": "fail, give up, surrender",
+        "example": "She surmounted all obstacles to achieve her goal."
+      },
+      {
+        "id": 193,
+        "word": "Solicit",
+        "type": "antonyms",
+        "correct_answer": "deny",
+        "options": [" provoke", " rigorous", " incompetence", "deny"],
+        "synonyms": "ask, request, beg",
+        "antonyms": "deny, refuse, reject",
+        "example": "He solicited donations for the charity."
+      },
+      {
+        "id": 194,
+        "word": "Acute",
+        "type": "antonyms",
+        "correct_answer": "dull",
+        "options": ["dispersion", " trivial", " increase", "dull"],
+        "synonyms": "sharp, keen, sensitive",
+        "antonyms": "dull, blunt, obtuse",
+        "example": "He had an acute sense of hearing."
+      },
+      {
+        "id": 195,
+        "word": "Relish",
+        "type": "antonyms",
+        "correct_answer": "dislike",
+        "options": [" fondness", "hide", " apprentice", "dislike"],
+        "synonyms": "enjoy, savor, relish",
+        "antonyms": "dislike, hate, detest",
+        "example": "She relished the taste of the wine."
+      },
+      {
+        "id": 196,
+        "word": "Concealed",
+        "type": "antonyms",
+        "correct_answer": "revealed",
+        "options": ["exonerated", "agreeable", " shift", "revealed"],
+        "synonyms": "hidden, secret, covert",
+        "antonyms": "revealed, exposed, public",
+        "example": "The treasure was concealed in a secret compartment."
+      }
+    ]
+  }
+  

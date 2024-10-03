@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "English",
+    "description": "Antonym and synonym quiz",
     "slug": "English",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -18,8 +19,10 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      }
+        "backgroundColor": "#ffffff",
+        "package": "com.prime.english"
+      },
+      "package": "com.prime_1585.English"
     },
     "web": {
       "bundler": "metro",
@@ -31,6 +34,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "91be02c8-2feb-4398-b214-0ff0d1fed554"
+      }
     }
   }
 }
